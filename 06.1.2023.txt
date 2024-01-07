@@ -1,33 +1,33 @@
-мин китәм      im leaving
-һин китәһең    ur leaving
-ул китә       he are leaving
-беҙ китәбеҙ    we're leaving
-һеҙ китәһегеҙ  ?
+мин китәм       im leaving
+һин китәһең     ur leaving
+ул китә         he are leaving
+беҙ китәбеҙ     we're leaving
+һеҙ китәһегеҙ   ?
 улар китәләр    they leaving
 
-мин китмәйем    im not leaving
-һин китмәйһең   ur not leaving
-ул китмәй      he arent leaving
-беҙ китмәйбеҙ   we're not leaving
-һеҙ китмәйһегеҙ ?
+мин китмәйем     im not leaving
+һин китмәйһең    ur not leaving
+ул китмәй        he arent leaving
+беҙ китмәйбеҙ    we're not leaving
+һеҙ китмәйһегеҙ  ?
 улар китмәйҙәр   they arent leaving
 
-мин киттем     im leaved
-һин киттең     ur leaved
-ул китте      he are leaved
-беҙ киттек     we're leaved
+мин киттем     i left
+һин киттең     u left
+ул китте       he left
+беҙ киттек     we left
 һеҙ киттегеҙ   ?
-улар киттеләр   they are leaved
+улар киттеләр   they left
 
-мин китмәнем im not leaved
-һин китмәнең ur not leaved
-ул китмәне  he arent leaved
-беҙ китмәнек we,re not leaved
-һеҙ китмәнегеҙ ?
-улар китмәнеләр they arent leaved
+мин китмәнем    i not left
+һин китмәнең    u not left
+ул китмәне      he not left
+беҙ китмәнек    we not left
+һеҙ китмәнегеҙ  ?
+улар китмәнеләр they not left
 
 мин киткәнмен
-һин киткәнһең
+һин киткәнһең тож
 ул киткән
 беҙ киткәнбеҙ
 һеҙ киткәнһегеҙ
@@ -37,47 +37,47 @@
 һин китмәгәнһең
 ул китмәгән
 беҙ китмәгәнбеҙ
-һеҙ китмәгәнһегеҙ
+һеҙ китмәгәнһегеҙ тож
 улар китмәгәндәр
 
-мин китәсәкмен   i will leave
-һин китәсәкһең   u will leave
-ул китәсәк      he will leave
-беҙ китәсәкбеҙ   we'll leave
-һеҙ китәсәкһегеҙ ?
+мин китәсәкмен    i will leave
+һин китәсәкһең    u will leave
+ул китәсәк        he will leave
+беҙ китәсәкбеҙ    we'll leave
+һеҙ китәсәкһегеҙ  ?
 улар китәсәктәр   they will leave
 
-мин китмәйәсәкмен   i will not leave
-һин китмәйәсәкһең   u will not leave
-ул китмәйәсәк      he will not leave
-беҙ китмәйәсәкбеҙ   we'll not leave
-һеҙ китмәйәсәкһегеҙ ?
+мин китмәйәсәкмен    i will not leave
+һин китмәйәсәкһең    u will not leave
+ул китмәйәсәк        he will not leave
+беҙ китмәйәсәкбеҙ    we'll not leave
+һеҙ китмәйәсәкһегеҙ  ?
 улар китмәйәсәктәр   they will not leave
 
-мин китһәм
-һин китһәң
-ул китһә
-беҙ китһәк
-һеҙ китһәгеҙ
-улар китһәләр
+мин китһәм       if i leave
+һин китһәң       if u leave
+ул китһә         if he leave
+беҙ китһәк       if we leave
+һеҙ китһәгеҙ     ?
+улар китһәләр    if they leave
 
-мин китмәҫмен
-һин китмәҫһең
-ул китмәҫ
-беҙ китмәҫбеҙ
-һеҙ китмәҫһегеҙ
-улар китмәҫтәр
+мин китмәҫмен    if i will not leave
+һин китмәҫһең    if u will not leave
+ул китмәҫ        if he will not leave
+беҙ китмәҫбеҙ    if we will not leave
+һеҙ китмәҫһегеҙ  ?
+улар китмәҫтәр   if they will not leave
 
-мин китермен
-һин китерһең
-ул китер
-беҙ китербеҙ
-һеҙ китерһегеҙ
-улар китерҙәр
+мин китермен      i would leave
+һин китерһең      u would leave
+ул китер          he would leave
+беҙ китербеҙ      we would leave
+һеҙ китерһегеҙ    ?
+улар китерҙәр     they would leave
 
-мин киткем килә
-һин киткең килә
-ул киткеһе килә
-беҙ киткек килә
-һеҙ киткегеҙ килә
-улар киткеләре килә
+мин киткем килә     i want to leave
+һин киткең килә     u want to leave
+ул киткеһе килә     he want to leave
+беҙ киткек килә     we want to leave
+һеҙ киткегеҙ килә   ?
+улар киткеләре килә they want to leave
