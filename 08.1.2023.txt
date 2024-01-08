@@ -1,30 +1,30 @@
-мин табам  im find
-һин табаһың  u find
+мин табам  I finds
+һин табаһың you find
 ул таба  he find
-беҙ табабыҙ 
-һеҙ табаһығыҙ
-улар табалар
+беҙ табабыҙ we find
+һеҙ табаһығыҙ you find
+улар табалар they find
 
-мин тапмайым  im not find
-һин тапмайһың u arent find
-ул тапмай    he arent find
-беҙ тапмайбыҙ
-һеҙ тапмайһығыҙ
-улар тапмайҙар
+мин тапмайым    I dont find
+һин тапмайһың   u dont find
+ул тапмай       he doesnt find
+беҙ тапмайбыҙ   we dont find
+һеҙ тапмайһығыҙ you dont find
+улар тапмайҙар  they dont find
 
-мин таптым im finded
-һин таптың u are finded
-ул тапты  he are finded 
-беҙ таптыҡ  we're finded
-һеҙ таптығыҙ  ?
-улар таптылар they are finded
+мин таптым    im have found
+һин таптың    you have found
+ул тапты      he has found
+беҙ таптыҡ    we have found
+һеҙ таптығыҙ  you have found
+улар таптылар they have found
 
-мин тапманым im not finded
-һин тапманың u arent finded
-ул тапманы he arent finded
-беҙ тапманыҡ we're not finded
-һеҙ тапманығыҙ ?
-улар тапманылар they arent finded
+мин тапманым    im havent found
+һин тапманың    you havent found
+ул тапманы      he hasnt found
+беҙ тапманыҡ    we havent found
+һеҙ тапманығыҙ  you havent found
+улар тапманылар they havent found
 
 мин тапҡанмын
 һин тапҡанһың
@@ -40,40 +40,40 @@
 һеҙ тапмағанһығыҙ
 улар тапмағандар
 
-мин табасаҡмын i will find
-һин табасаҡһың u will find
-ул табасаҡ he will find
-беҙ табасаҡбыҙ we'll find
-һеҙ табасаҡһығыҙ ?
-улар табасаҡтар they will find
+мин табасаҡмын   i will find
+һин табасаҡһың   u will find
+ул табасаҡ       he will find
+беҙ табасаҡбыҙ   we will find
+һеҙ табасаҡһығыҙ you will find
+улар табасаҡтар  they will find
 
-мин тапмаясаҡмын i will not find
-һин тапмаясаҡһың u will not find
-ул тапмаясаҡ he will not find
-беҙ тапмаясаҡбыҙ we will not find
-һеҙ тапмаясаҡһығыҙ ?
-улар тапмаясаҡтар they will not find
+мин тапмаясаҡмын   i will not find
+һин тапмаясаҡһың   u will not find
+ул тапмаясаҡ       he will not find
+беҙ тапмаясаҡбыҙ   we will not find
+һеҙ тапмаясаҡһығыҙ you will not find
+улар тапмаясаҡтар  they will not find
 
-мин тапһам
-һин тапһаң
-ул тапһа
-беҙ тапһаҡ
-һеҙ тапһағыҙ
-улар тапһалар
+мин тапһам     if i find
+һин тапһаң     if u find
+ул тапһа       if he finds
+беҙ тапһаҡ     if we find
+һеҙ тапһағыҙ   if you find
+улар тапһалар  if they find / if they will find
 
-мин тапмаҫмын
-һин тапмаҫһың
-ул тапмаҫ
-беҙ тапмаҫбыҙ
-һеҙ тапмаҫһығыҙ
-улар тапмаҫтар
+мин тапмаҫмын   i wouldn't find
+һин тапмаҫһың   you wouldn't find
+ул тапмаҫ       he wouldn't find
+беҙ тапмаҫбыҙ   we wouldn't find
+һеҙ тапмаҫһығыҙ you wouldn't find
+улар тапмаҫтар  they wouldn't find
 
-мин тапырмын
-һин тапырһың
-ул тапыр
-беҙ тапырбыҙ
-һеҙ тапырһығыҙ
-улар тапырҙар
+мин табырмын
+һин табырһың
+ул табыр
+беҙ табырбыҙ
+һеҙ табырһығыҙ
+улар тыбырҙар
 
 мин тапҡым
 һин тапҡың
