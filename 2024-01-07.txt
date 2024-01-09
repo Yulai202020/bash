@@ -1,29 +1,29 @@
-мин ҡарайым i'm watching
-һин ҡарайһың ur watching
-ул ҡарай     he are watching
-беҙ ҡарайбыҙ  we're watching
-һеҙ ҡарайһығыҙ ?
-улар ҡарайҙар they are watching
+мин ҡарайым    i'm watch
+һин ҡарайһың   you are watch
+ул ҡарай       he is watch
+беҙ ҡарайбыҙ   we're watch
+һеҙ ҡарайһығыҙ you are watch
+улар ҡарайҙар  they are watching
 
-мин ҡарамайым  i'm not watching
-һин ҡарамайһың  ur not watching
-ул ҡарамай      he aren't watching
-беҙ ҡарамайбыҙ  we're not watching
-һеҙ ҡарамайһығыҙ  ?
-улар ҡарамайҙар  they arent watching
+мин ҡарамайым     i'm not watch
+һин ҡарамайһың    you arent watch
+ул ҡарамай        he aren't watch
+беҙ ҡарамайбыҙ    we're not watch
+һеҙ ҡарамайһығыҙ  you arent watch
+улар ҡарамайҙар   they arent watch
 
-мин ҡараным i watched
-һин ҡараның he watched
-ул ҡараны   he watched
-беҙ ҡараныҡ  we watched
-һеҙ ҡараныгыҙ ?
+мин ҡараным    i watched
+һин ҡараның    he watched
+ул ҡараны      he watched
+беҙ ҡараныҡ    we watched
+һеҙ ҡараныгыҙ  you watched
 улар ҡаранылар they watched
 
-мин ҡараманым i not watched
-һин ҡараманың u not watched
-ул ҡараманы   he not watched
-беҙ ҡараманыҡ we not watched
-һеҙ ҡараманығыҙ ?
+мин ҡараманым    i not watched
+һин ҡараманың    you not watched
+ул ҡараманы      he not watched
+беҙ ҡараманыҡ    we not watched
+һеҙ ҡараманығыҙ  you not watched
 улар ҡараманылар they not watched
 
 мин ҡарағанмын
@@ -40,44 +40,44 @@
 һеҙ ҡарамағын
 улар ҡарамағындыр
 
-мин ҡараясаҡмын i will watch
-һин ҡараясаҡһың u will watch
-ул ҡараясаҡ     he will watch
-беҙ ҡараясаҡбыҙ  we will watch
-һеҙ ҡараясаҡһығыҙ ?
-улар ҡараясаҡтыр they will watch
+мин ҡараясаҡмын   i will watch
+һин ҡараясаҡһың   u will watch
+ул ҡараясаҡ       he will watch
+беҙ ҡараясаҡбыҙ   we will watch
+һеҙ ҡараясаҡһығыҙ you will watch
+улар ҡараясаҡтыр  they will watch
 
-мин ҡарамаясаҡмын
-һин ҡарамаясаҡһың
-ул ҡарамаясаҡ
-беҙ ҡарамаясаҡбыҙ
-һеҙ ҡарамаясаҡһығыҙ
-улар ҡарамаясаҡтыр
+мин ҡарамаясаҡмын   i will not find
+һин ҡарамаясаҡһың   you will not find
+ул ҡарамаясаҡ       he will not find
+беҙ ҡарамаясаҡбыҙ   we will not find
+һеҙ ҡарамаясаҡһығыҙ you will not find
+улар ҡарамаясаҡтыр  they will not find
 
-мин ҡараһам
-һин ҡараһаң
-ул ҡараһа
-беҙ ҡараһаҡ
-һеҙ ҡараһағыҙ
-улар ҡараһалар
+мин ҡараһам    if i find / if i will find
+һин ҡараһаң    if you find / if you will find
+ул ҡараһа      if he find / if he will find
+беҙ ҡараһаҡ    if we find / if we will find
+һеҙ ҡараһағыҙ  if you find / if you will find
+улар ҡараһалар if they find / if they will find
 
-мин ҡарағым
-һин ҡарағың
-ул ҡарағыһы
-беҙ ҡарағыҡ
-һеҙ ҡарағығыҙ
-улар ҡарағылары
+мин ҡарағым     i want to find
+һин ҡарағың     you want to find
+ул ҡарағыһы     he want to find
+беҙ ҡарағыҡ     we want to find
+һеҙ ҡарағығыҙ   you want to find
+улар ҡарағылары they want to find
 
-мин ҡарамаҫмын
-һин ҡарамаҫһың
-ул ҡарамаҫ
-беҙ ҡарамаҫбыҙ
-һеҙ ҡарамаҫһығыҙ
-улар ҡарамаҫтар
+мин ҡарамаҫмын   i wouldn't find
+һин ҡарамаҫһың   you wouldn't find
+ул ҡарамаҫ       he wouldn't find
+беҙ ҡарамаҫбыҙ   we wouldn't find
+һеҙ ҡарамаҫһығыҙ you wouldn't find
+улар ҡарамаҫтар  they wouldn't find
 
-мин ҡарармын
-һин ҡарарһың
-ул ҡарар
-беҙ ҡарарбыҙ
-һеҙ ҡарарһығыҙ
-улар ҡарарҙар
+мин ҡарармын   i would find
+һин ҡарарһың   you would find
+ул ҡарар       he would find
+беҙ ҡарарбыҙ   we would find
+һеҙ ҡарарһығыҙ you would find
+улар ҡарарҙар  they would find

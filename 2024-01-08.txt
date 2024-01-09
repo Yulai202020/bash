@@ -1,9 +1,9 @@
-мин табам  I finds
-һин табаһың you find
-ул таба  he find
-беҙ табабыҙ we find
+мин табам     I finds
+һин табаһың   you find
+ул таба       he find
+беҙ табабыҙ   we find
 һеҙ табаһығыҙ you find
-улар табалар they find
+улар табалар  they find
 
 мин тапмайым    I dont find
 һин тапмайһың   u dont find
@@ -54,11 +54,11 @@
 һеҙ тапмаясаҡһығыҙ you will not find
 улар тапмаясаҡтар  they will not find
 
-мин тапһам     if i find
-һин тапһаң     if u find
-ул тапһа       if he finds
-беҙ тапһаҡ     if we find
-һеҙ тапһағыҙ   if you find
+мин тапһам     if i find / if i will find
+һин тапһаң     if u find / if u will find
+ул тапһа       if he finds / if he will find
+беҙ тапһаҡ     if we find / if we will find
+һеҙ тапһағыҙ   if you find / if you will find
 улар тапһалар  if they find / if they will find
 
 мин тапмаҫмын   i wouldn't find
