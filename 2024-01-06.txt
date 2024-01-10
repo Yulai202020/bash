@@ -1,6 +1,6 @@
 мин китәм       im leaving / i leave
 һин китәһең     you are leaving / you leave
-ул китә         he is leaving / he leave
+ул китә         he is leaving / he leaves
 беҙ китәбеҙ     we're leaving / we leave
 һеҙ китәһегеҙ   you are leaving / you leave
 улар китәләр    they are leaving / they leave
@@ -17,7 +17,7 @@
 ул китте       he has left
 беҙ киттек     we have left
 һеҙ киттегеҙ   you have left
-улар киттеләр   they have left
+улар киттеләр  they have left
 
 мин китмәнем    i have not left
 һин китмәнең    u have not left
@@ -56,21 +56,21 @@
 
 мин китһәм       if i leave / if i will leave
 һин китһәң       if you leave / if you will leave
-ул китһә         if he leave / if he will leave
+ул китһә         if he leaves / if he will leaves
 беҙ китһәк       if we leave / if we will leave
 һеҙ китһәгеҙ     if you leave / if you will leave
 улар китһәләр    if they leave / if i will leave
 
 мин китмәҫмен    i wouldn't leave
 һин китмәҫһең    you wouldn't leave
-ул китмәҫ        he wouldn't leave
+ул китмәҫ        he wouldn't leaves
 беҙ китмәҫбеҙ    we wouldn't leave
 һеҙ китмәҫһегеҙ  you wouldn't leave
 улар китмәҫтәр   they wouldn't leave
 
 мин китермен      i would leave
 һин китерһең      u would leave
-ул китер          he woulds leave
+ул китер          he would leaves
 беҙ китербеҙ      we would leave
 һеҙ китерһегеҙ    you would leave
 улар китерҙәр     they would leave
