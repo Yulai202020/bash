@@ -1,9 +1,9 @@
-мин табам     I find
-һин табаһың   you find
-ул таба       he finds
-беҙ табабыҙ   we find
-һеҙ табаһығыҙ you find
-улар табалар  they find
+мин табам     Im finding / i find
+һин табаһың   you are finding / you find
+ул таба       he is finding / he finds
+беҙ табабыҙ   we are find / we find
+һеҙ табаһығыҙ you are find / you find
+улар табалар  they are find / they find
 
 мин тапмайым    I dont find
 һин тапмайһың   u dont find

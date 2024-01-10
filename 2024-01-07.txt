@@ -1,9 +1,9 @@
 мин ҡарайым    i'm watching / i watch
-һин ҡарайһың   you are watching / 
-ул ҡарай       he is watching / 
-беҙ ҡарайбыҙ   we're watching / 
-һеҙ ҡарайһығыҙ you are watching / you
-улар ҡарайҙар  they are watching / they
+һин ҡарайһың   you are watching / you watch
+ул ҡарай       he is watching / he watches
+беҙ ҡарайбыҙ   we're watching / we watch
+һеҙ ҡарайһығыҙ you are watching / you watch
+улар ҡарайҙар  they are watching / they watch
 
 мин ҡарамайым     i dont watch
 һин ҡарамайһың    you dont watch
@@ -13,18 +13,18 @@
 улар ҡарамайҙар   they dont watch
 
 мин ҡараным    i have watched
-һин ҡараның    he have watched
-ул ҡараны      you have watched
+һин ҡараның    you have watched
+ул ҡараны      he has watched
 беҙ ҡараныҡ    we have watched
 һеҙ ҡараныгыҙ  you have watched
 улар ҡаранылар they have watched
 
-мин ҡараманым    i not watched
-һин ҡараманың    you not watched
-ул ҡараманы      he not watched
-беҙ ҡараманыҡ    we not watched
-һеҙ ҡараманығыҙ  you not watched
-улар ҡараманылар they not watched
+мин ҡараманым    i haven't watched
+һин ҡараманың    you haven't watched
+ул ҡараманы      he hasn't watched
+беҙ ҡараманыҡ    we haven't watched
+һеҙ ҡараманығыҙ  you haven't watched
+улар ҡараманылар they haven't watched
 
 мин ҡарағанмын
 һин ҡарағанһың

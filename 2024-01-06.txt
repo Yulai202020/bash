@@ -5,12 +5,12 @@
 һеҙ китәһегеҙ   you are leaving / you leave
 улар китәләр    they are leaving / they leave
 
-мин китмәйем     im not leaving / i not leave
-һин китмәйһең    you arent leaving / you not leave
-ул китмәй        he isn't leaving / he not leave
-беҙ китмәйбеҙ    we're not leaving / we not leave
-һеҙ китмәйһегеҙ  you arent leaving / you not leave
-улар китмәйҙәр   they arent leaving / they not leave
+мин китмәйем     im dont leaving / i not leave
+һин китмәйһең    you dont leaving / you not leave
+ул китмәй        he doesnt leaving / he not leave
+беҙ китмәйбеҙ    we dont leaving / we not leave
+һеҙ китмәйһегеҙ  you dont leaving / you not leave
+улар китмәйҙәр   they dont leaving / they not leave
 
 мин киттем     i have left
 һин киттең     u have left
