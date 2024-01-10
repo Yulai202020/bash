@@ -47,37 +47,37 @@
 һеҙ ҡараясаҡһығыҙ you will watch
 улар ҡараясаҡтыр  they will watch
 
-мин ҡарамаясаҡмын   i will not find
-һин ҡарамаясаҡһың   you will not find
-ул ҡарамаясаҡ       he will not find
-беҙ ҡарамаясаҡбыҙ   we will not find
-һеҙ ҡарамаясаҡһығыҙ you will not find
-улар ҡарамаясаҡтыр  they will not find
+мин ҡарамаясаҡмын   i will not watch
+һин ҡарамаясаҡһың   you will not watch
+ул ҡарамаясаҡ       he will not watch
+беҙ ҡарамаясаҡбыҙ   we will not watch
+һеҙ ҡарамаясаҡһығыҙ you will not watch
+улар ҡарамаясаҡтыр  they will not watch
 
-мин ҡараһам    if i find / if i will find
-һин ҡараһаң    if you find / if you will find
-ул ҡараһа      if he find / if he will find
-беҙ ҡараһаҡ    if we find / if we will find
-һеҙ ҡараһағыҙ  if you find / if you will find
-улар ҡараһалар if they find / if they will find
+мин ҡараһам    if i watch / if i will watch
+һин ҡараһаң    if you watch / if you will watch
+ул ҡараһа      if he watch / if he will watch
+беҙ ҡараһаҡ    if we watch / if we will watch
+һеҙ ҡараһағыҙ  if you watch / if you will watch
+улар ҡараһалар if they watch / if they will watch
 
-мин ҡарағым     i want to find
-һин ҡарағың     you want to find
-ул ҡарағыһы     he want to find
-беҙ ҡарағыҡ     we want to find
-һеҙ ҡарағығыҙ   you want to find
-улар ҡарағылары they want to find
+мин ҡарағым     i want to watch
+һин ҡарағың     you want to watch
+ул ҡарағыһы     he want to watch
+беҙ ҡарағыҡ     we want to watch
+һеҙ ҡарағығыҙ   you want to watch
+улар ҡарағылары they want to watch
 
-мин ҡарамаҫмын   i wouldn't find
-һин ҡарамаҫһың   you wouldn't find
-ул ҡарамаҫ       he wouldn't find
-беҙ ҡарамаҫбыҙ   we wouldn't find
-һеҙ ҡарамаҫһығыҙ you wouldn't find
-улар ҡарамаҫтар  they wouldn't find
+мин ҡарамаҫмын   i wouldn't watch
+һин ҡарамаҫһың   you wouldn't watch
+ул ҡарамаҫ       he wouldn't watch
+беҙ ҡарамаҫбыҙ   we wouldn't watch
+һеҙ ҡарамаҫһығыҙ you wouldn't watch
+улар ҡарамаҫтар  they wouldn't watch
 
-мин ҡарармын   i would find
-һин ҡарарһың   you would find
-ул ҡарар       he would find
-беҙ ҡарарбыҙ   we would find
-һеҙ ҡарарһығыҙ you would find
-улар ҡарарҙар  they would find
+мин ҡарармын   i would watch
+һин ҡарарһың   you would watch
+ул ҡарар       he would watch
+беҙ ҡарарбыҙ   we would watch
+һеҙ ҡарарһығыҙ you would watch
+улар ҡарарҙар  they would watch
