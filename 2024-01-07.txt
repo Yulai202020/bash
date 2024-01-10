@@ -1,16 +1,16 @@
-мин ҡарайым    i'm watch
-һин ҡарайһың   you are watch
-ул ҡарай       he is watch
-беҙ ҡарайбыҙ   we're watch
+мин ҡарайым    i watch
+һин ҡарайһың   you watch
+ул ҡарай       he watches
+беҙ ҡарайбыҙ   we watch
 һеҙ ҡарайһығыҙ you are watch
-улар ҡарайҙар  they are watching
+улар ҡарайҙар  they are watch
 
-мин ҡарамайым     i'm not watch
-һин ҡарамайһың    you arent watch
-ул ҡарамай        he aren't watch
-беҙ ҡарамайбыҙ    we're not watch
-һеҙ ҡарамайһығыҙ  you arent watch
-улар ҡарамайҙар   they arent watch
+мин ҡарамайым     i not watch
+һин ҡарамайһың    you not watch
+ул ҡарамай        he not watch
+беҙ ҡарамайбыҙ    we not watch
+һеҙ ҡарамайһығыҙ  you not watch
+улар ҡарамайҙар   they not watch
 
 мин ҡараным    i watched
 һин ҡараның    he watched
@@ -63,7 +63,7 @@
 
 мин ҡарағым     i want to watch
 һин ҡарағың     you want to watch
-ул ҡарағыһы     he want to watch
+ул ҡарағыһы     he wants to watch
 беҙ ҡарағыҡ     we want to watch
 һеҙ ҡарағығыҙ   you want to watch
 улар ҡарағылары they want to watch

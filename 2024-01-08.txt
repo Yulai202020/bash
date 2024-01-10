@@ -77,7 +77,7 @@
 
 минен тапҡым килә      i want to find
 һинен тапҡың килә      you want to find
-унын тапҡыһы килә      he want to find
+унын тапҡыһы килә      he wants to find
 беҙҙең тапҡыҡ килә     we want to find
 һеҙҙең тапҡығыҙ килә   you want to find
 уларҙың тапҡылыры килә they want to find
