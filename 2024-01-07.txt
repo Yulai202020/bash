@@ -1,23 +1,23 @@
-мин ҡарайым    i watch
-һин ҡарайһың   you watch
-ул ҡарай       he watches
-беҙ ҡарайбыҙ   we watch
-һеҙ ҡарайһығыҙ you are watch
-улар ҡарайҙар  they are watch
+мин ҡарайым    i'm watching / i watch
+һин ҡарайһың   you are watching / 
+ул ҡарай       he is watching / 
+беҙ ҡарайбыҙ   we're watching / 
+һеҙ ҡарайһығыҙ you are watching / you
+улар ҡарайҙар  they are watching / they
 
-мин ҡарамайым     i not watch
-һин ҡарамайһың    you not watch
-ул ҡарамай        he not watch
-беҙ ҡарамайбыҙ    we not watch
-һеҙ ҡарамайһығыҙ  you not watch
-улар ҡарамайҙар   they not watch
+мин ҡарамайым     i dont watch
+һин ҡарамайһың    you dont watch
+ул ҡарамай        he dont watch
+беҙ ҡарамайбыҙ    we dont watch
+һеҙ ҡарамайһығыҙ  you dont watch
+улар ҡарамайҙар   they dont watch
 
-мин ҡараным    i watched
-һин ҡараның    he watched
-ул ҡараны      he watched
-беҙ ҡараныҡ    we watched
-һеҙ ҡараныгыҙ  you watched
-улар ҡаранылар they watched
+мин ҡараным    i have watched
+һин ҡараның    he have watched
+ул ҡараны      you have watched
+беҙ ҡараныҡ    we have watched
+һеҙ ҡараныгыҙ  you have watched
+улар ҡаранылар they have watched
 
 мин ҡараманым    i not watched
 һин ҡараманың    you not watched

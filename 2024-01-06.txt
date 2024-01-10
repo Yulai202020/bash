@@ -1,30 +1,30 @@
-мин китәм       im leave
-һин китәһең     you are leave
-ул китә         he is leaves
-беҙ китәбеҙ     we're leave
-һеҙ китәһегеҙ   you are leave
-улар китәләр    they leaving
+мин китәм       im leaving / i leave
+һин китәһең     you are leaving / you leave
+ул китә         he is leaving / he leave
+беҙ китәбеҙ     we're leaving / we leave
+һеҙ китәһегеҙ   you are leaving / you leave
+улар китәләр    they are leaving / they leave
 
-мин китмәйем     im not leave
-һин китмәйһең    you arent leave
-ул китмәй        he isn't leaves
-беҙ китмәйбеҙ    we're not leave
-һеҙ китмәйһегеҙ  you arent leave
-улар китмәйҙәр   they arent leave
+мин китмәйем     im not leaving / i not leave
+һин китмәйһең    you arent leaving / you not leave
+ул китмәй        he isn't leaving / he not leave
+беҙ китмәйбеҙ    we're not leaving / we not leave
+һеҙ китмәйһегеҙ  you arent leaving / you not leave
+улар китмәйҙәр   they arent leaving / they not leave
 
-мин киттем     i left
-һин киттең     u left
-ул китте       he left
-беҙ киттек     we left
-һеҙ киттегеҙ   you left
-улар киттеләр   they left
+мин киттем     i have left
+һин киттең     u have left
+ул китте       he has left
+беҙ киттек     we have left
+һеҙ киттегеҙ   you have left
+улар киттеләр   they have left
 
-мин китмәнем    i not left
-һин китмәнең    u not left
-ул китмәне      he not left
-беҙ китмәнек    we not left
-һеҙ китмәнегеҙ  you not left
-улар китмәнеләр they not left
+мин китмәнем    i have not left
+һин китмәнең    u have not left
+ул китмәне      he has not left
+беҙ китмәнек    we have not left
+һеҙ китмәнегеҙ  you have not left
+улар китмәнеләр they have not left
 
 мин киткәнмен
 һин киткәнһең
