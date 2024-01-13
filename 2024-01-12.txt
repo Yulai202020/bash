@@ -1,83 +1,83 @@
-мин торам
-һин тораһың
-ул тора
-беҙ торабыҙ
-һығыҙ тораһығыҙ
-улар торалар
+мин торам       im standing
+һин тораһың     you are standing
+ул тора         he are standing
+беҙ торабыҙ     we are standing
+һеҙ тораһығыҙ   you are standing
+улар торалар    they are standing
 
-мин тормайым
-һин тормайһың
-ул тормай
-беҙ тормайбыҙ
-һығыҙ тормайһығыҙ
-улар тормайҙар
+мин тормайым      i dont stand
+һин тормайһың     you dont stand
+ул тормай         he doesnt stand
+беҙ тормайбыҙ     you dont stand
+һеҙ тормайһығыҙ   we dont stand
+улар тормайҙар    they dont stand
 
-мин торҙым
-һин торҙың
-ул торҙы
-беҙ торҙыҡ
-һығыҙ торҙығыҙ
-улар торҙылар
+мин торҙым im have stood 
+һин торҙың you have stood
+ул торҙы he has stood
+беҙ торҙыҡ we have stood
+һеҙ торҙығыҙ you have stood
+улар торҙылар they have stood
 
-мин торманым
-һин торманың
-ул торманы
-беҙ торманыҡ
-һығыҙ торманығыҙ
-улар торманылар
+мин торманым    im havent stood
+һин торманың    you havent stood
+ул торманы      he hasnt stood
+беҙ торманыҡ    we havent stood
+һеҙ торманығыҙ  you havent stood
+улар торманылар they havent stood
 
 мин торғанмын
 һин торғанһың
 ул торған
 беҙ торғанбыҙ
-һығыҙ торғанһығыҙ
+һеҙ торғанһығыҙ
 улар торғандар
 
 мин тормағанмын
 һин тормағанһың
 ул тормаған
 беҙ тормағанбыҙ
-һығыҙ тормағанһығыҙ
+һеҙ тормағанһығыҙ
 улар тормағандар
 
-мин торасаҡмын
-һин торасаҡһың
-ул торасаҡ
-беҙ торасаҡбыҙ
-һығыҙ торасаҡһығыҙ
-улар торасаҡтар
+мин торасаҡмын     i will stand
+һин торасаҡһың     you will stand
+ул торасаҡ         he will stand
+беҙ торасаҡбыҙ     we will stand
+һеҙ торасаҡһығыҙ   you will stand 
+улар торасаҡтар    they will stand
 
-мин тормаясаҡмын
-һин тормаясаҡһың
-ул тормаясаҡ
-беҙ тормаясаҡбыҙ
-һығыҙ тормаясаҡһығыҙ
-улар тормаясаҡтар
+мин тормаясаҡмын     i will not stand
+һин тормаясаҡһың     you will not stand
+ул тормаясаҡ         he will not stand
+беҙ тормаясаҡбыҙ     we will not stand
+һеҙ тормаясаҡһығыҙ   you will not stand
+улар тормаясаҡтар    they will not stand
 
-мин торормын
-һин торорһың
-ул торор
-беҙ торорбыҙ
-һығыҙ торорһығыҙ
-улар торорҙар
+мин торормын   i would stand
+һин торорһың   you would stand
+ул торор       he would stand
+беҙ торорбыҙ   we would stand
+һеҙ торорһығыҙ you would stand
+улар торорҙар  they would stand
 
-мин тормаҫмын
-һин тормаҫһың
-ул тормаҫ
-беҙ тормаҫбыҙ
-һығыҙ тормаҫһығыҙ
-улар тормаҫтар
+мин тормаҫмын   i wouldn't stand
+һин тормаҫһың   you wouldn't stand
+ул тормаҫ       he wouldn't stand
+беҙ тормаҫбыҙ   we wouldn't stand
+һеҙ тормаҫһығыҙ you wouldn't stand
+улар тормаҫтар  they wouldn't stand
 
-мин торһам
-һин торһаң
-ул торһа
-беҙ торһаҡ
-һығыҙ торһағыҙ
-улар торһалар
+мин торһам     if i will stand / if i stand
+һин торһаң     if you will stand / if you stand
+ул торһа       if he will stand / if he stand
+беҙ торһаҡ     if we will stand / if we stand
+һеҙ торһағыҙ   if you will stand / if you stand
+улар торһалар  if they will stand / if they stand
 
-мин торғым
-һин торғың
-ул торғыһы
-беҙ торғыҡ
-һығыҙ торғығыҙ
-улар торғылары
+мин торғым килә     i want to stand
+һин торғың килә     you want to stand
+ул торғыһы килә     he want to stand
+беҙ торғыҡ килә     we want to stand
+һеҙ торғығыҙ килә   want to stand
+улар торғылары килә i want to stand

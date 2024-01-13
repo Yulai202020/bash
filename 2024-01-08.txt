@@ -6,7 +6,7 @@
 улар табалар  they are find / they find
 
 мин тапмайым    I dont find
-һин тапмайһың   u dont find
+һин тапмайһың   you dont find
 ул тапмай       he doesnt find
 беҙ тапмайбыҙ   we dont find
 һеҙ тапмайһығыҙ you dont find
@@ -41,21 +41,21 @@
 улар тапмағандар
 
 мин табасаҡмын   i will find
-һин табасаҡһың   u will find
+һин табасаҡһың   you will find
 ул табасаҡ       he will find
 беҙ табасаҡбыҙ   we will find
 һеҙ табасаҡһығыҙ you will find
 улар табасаҡтар  they will find
 
 мин тапмаясаҡмын   i will not find
-һин тапмаясаҡһың   u will not find
+һин тапмаясаҡһың   you will not find
 ул тапмаясаҡ       he will not find
 беҙ тапмаясаҡбыҙ   we will not find
 һеҙ тапмаясаҡһығыҙ you will not find
 улар тапмаясаҡтар  they will not find
 
 мин тапһам     if i find / if i will find
-һин тапһаң     if u find / if u will find
+һин тапһаң     if you find / if you will find
 ул тапһа       if he finds / if he will find
 беҙ тапһаҡ     if we find / if we will find
 һеҙ тапһағыҙ   if you find / if you will find
