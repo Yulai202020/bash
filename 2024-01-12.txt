@@ -12,12 +12,12 @@
 һеҙ тормайһығыҙ   we dont stand
 улар тормайҙар    they dont stand
 
-мин торҙым im have stood 
-һин торҙың you have stood
-ул торҙы he has stood
-беҙ торҙыҡ we have stood
-һеҙ торҙығыҙ you have stood
-улар торҙылар they have stood
+мин торҙым     im have stood 
+һин торҙың     you have stood
+ул торҙы       he has stood
+беҙ торҙыҡ     we have stood
+һеҙ торҙығыҙ   you have stood
+улар торҙылар  they have stood
 
 мин торманым    im havent stood
 һин торманың    you havent stood
@@ -80,4 +80,4 @@
 ул торғыһы килә     he want to stand
 беҙ торғыҡ килә     we want to stand
 һеҙ торғығыҙ килә   want to stand
-улар торғылары килә i want to stand
+улар торғылары килә they want to stand
