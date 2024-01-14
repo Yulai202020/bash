@@ -1,30 +1,30 @@
-киләм
-киләһең
-килә
-киләбеҙ
-киләһегеҙ
-киләләр
+киләм im coming
+киләһең  u are coming
+килә  he is coming
+киләбеҙ  we are coming
+киләһегеҙ you are coming
+киләләр they
 
-килмәйем
-килмәйһең
-килмәй
-килмәйбеҙ
-килмәйһегеҙ
-килмәйҙәр
+килмәйем i dont coming
+килмәйһең u dont coming
+килмәй  he dont coming
+килмәйбеҙ  we dont coming
+килмәйһегеҙ you dont coming
+килмәйҙәр they dont coming
 
-килдем
-килдең
-килде
-килдек
-килдегеҙ
-килделәр
+килдем im have came
+килдең u have came
+килде he has came
+килдек we have came
+килдегеҙ you have came
+килделәр they have came
 
-килмәнем
-килмәнең
-килмәне
-килмәнек
-килмәнегеҙ
-килмәнеләр
+килмәнем im havent came
+килмәнең you havent came
+килмәне he hasnt came
+килмәнек we havent came
+килмәнегеҙ you havent came
+килмәнеләр they havent came
 
 килгәнмен
 килгәнһең
@@ -40,44 +40,44 @@
 килмәгәнһегеҙ
 килмәгәндәр
 
-киләсәкмен
-киләсәкһең
-киләсәк
-киләсәкбеҙ
-киләсәкһегеҙ
-киләсәктәр
+киләсәкмен i will come
+киләсәкһең i will come
+киләсәк i will come
+киләсәкбеҙ i will come
+киләсәкһегеҙ i will come
+киләсәктәр i will come
 
-килмәйәсәкмен
-килмәйәсәкһең
-килмәйәсәк
-килмәйәсәкбеҙ
-килмәйәсәкһегеҙ
-килмәйәсәктәр
+килмәйәсәкмен i will come
+килмәйәсәкһең you will come
+килмәйәсәк he will come
+килмәйәсәкбеҙ we will come
+килмәйәсәкһегеҙ you will come
+килмәйәсәктәр   he will come
 
-килһәм
-килһәң
-килһә
-килһәк
-килһәгеҙ
-килһәләр
+килһәм if i will come
+килһәң if i will come
+килһә if i will come
+килһәк if i will come
+килһәгеҙ if i will come
+килһәләр if i will come
 
-килермен
-килерһең
-килер
-килербеҙ
-килерһегеҙ
-килерҙәр
+килермен i would come
+килерһең  i would come   
+килер i would come
+килербеҙ i would come
+килерһегеҙ i would come
+килерҙәр i would come
 
-килмәҫмен
-килмәҫһең
-килмәҫ
-килмәҫбеҙ
-килмәҫһегеҙ
-килмәҫтәр
+килмәҫмен i would come
+килмәҫһең i would come
+килмәҫ i would come
+килмәҫбеҙ i would come
+килмәҫһегеҙ i would come
+килмәҫтәр i would come
 
-килгем килә
-килгең килә
-килгеһе килә
-килгек килә
-килгегеҙ килә
-килгеләр килә
+килгем килә i want to come
+килгең килә i want to come
+килгеһе килә i want to come
+килгек килә i want to come
+килгегеҙ килә i want to come
+килгеләр килә i want to come
