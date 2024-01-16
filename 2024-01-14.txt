@@ -1,85 +1,85 @@
 edited 2024-01-05.txt
 
-киләм im coming
-киләһең  u are coming
-килә  he is coming
+мин киләм im coming
+һиң киләһең  u are coming
+ул килә  he is coming
 киләбеҙ  we are coming
 киләһегеҙ you are coming
 киләләр they
 
-килмәйем i dont coming
-килмәйһең u dont coming
-килмәй  he dont coming
+мин килмәйем i dont coming
+һиң килмәйһең u dont coming
+ул килмәй  he dont coming
 килмәйбеҙ  we dont coming
 килмәйһегеҙ you dont coming
 килмәйҙәр they dont coming
 
-килдем im have came
-килдең u have came
-килде he has came
+мин килдем im have came
+һиң килдең u have came
+ул килде he has came
 килдек we have came
 килдегеҙ you have came
 килделәр they have came
 
-килмәнем im havent came
-килмәнең you havent came
-килмәне he hasnt came
+мин килмәнем im havent came
+һиң килмәнең you havent came
+ул килмәне he hasnt came
 килмәнек we havent came
 килмәнегеҙ you havent came
 килмәнеләр they havent came
 
-килгәнмен
-килгәнһең
-килгән
+мин килгәнмен
+һиң килгәнһең
+ул килгән
 килгәнбеҙ
 килгәнһегеҙ
 килгәндәр
 
-килмәгәнмен
-килмәгәнһең
-килмәгән
+мин килмәгәнмен
+һиң килмәгәнһең
+ул килмәгән
 килмәгәнбеҙ
 килмәгәнһегеҙ
 килмәгәндәр
 
-киләсәкмен i will come
-киләсәкһең i will come
-киләсәк i will come
-киләсәкбеҙ i will come
-киләсәкһегеҙ i will come
-киләсәктәр i will come
+мин киләсәкмен i will come
+һиң киләсәкһең you will come
+ул киләсәк he will come
+киләсәкбеҙ we will come
+киләсәкһегеҙ you will come
+киләсәктәр they will come
 
-килмәйәсәкмен i will come
-килмәйәсәкһең you will come
-килмәйәсәк he will come
-килмәйәсәкбеҙ we will come
-килмәйәсәкһегеҙ you will come
-килмәйәсәктәр   he will come
+мин килмәйәсәкмен i will not come
+һиң килмәйәсәкһең you will not come
+ул килмәйәсәк he will not come
+килмәйәсәкбеҙ we will not come
+килмәйәсәкһегеҙ you will not come
+килмәйәсәктәр   he will not come
 
-килһәм if i will come
-килһәң if i will come
-килһә if i will come
-килһәк if i will come
-килһәгеҙ if i will come
-килһәләр if i will come
+мин килһәм if i will come
+һиң килһәң if you will come
+килһә if he will come
+килһәк if we will come
+килһәгеҙ if you will come
+килһәләр if they will come
 
-килермен i would come
-килерһең  i would come   
-килер i would come
-килербеҙ i would come
-килерһегеҙ i would come
-килерҙәр i would come
+мин килермен i would come
+һиң килерһең  you would come   
+килер he would come
+килербеҙ we would come
+килерһегеҙ you would come
+килерҙәр they would come
 
-килмәҫмен i would come
-килмәҫһең i would come
-килмәҫ i would come
-килмәҫбеҙ i would come
-килмәҫһегеҙ i would come
-килмәҫтәр i would come
+мин килмәҫмен i would come
+һиң килмәҫһең you would come
+килмәҫ he would come
+килмәҫбеҙ we would come
+килмәҫһегеҙ you would come
+килмәҫтәр they would come
 
-килгем килә i want to come
-килгең килә i want to come
-килгеһе килә i want to come
-килгек килә i want to come
-килгегеҙ килә i want to come
-килгеләр килә i want to come
+мин килгем килә i want to come
+һиң килгең килә you want to come
+килгеһе килә he want to come
+килгек килә we want to come
+килгегеҙ килә you want to come
+килгеләр килә they want to come
