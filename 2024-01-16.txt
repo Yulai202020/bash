@@ -1,5 +1,5 @@
-мин ватам     im braking
-Һиң ватаһың   u breaking
+мин ватам     im breaking
+Һиң ватаһың   you breaking
 ул вата       he breaking
 беҙ ватабыҙ   we breaking
 һеҙ ватаһығыҙ you breaking
@@ -12,19 +12,19 @@
 һеҙ ватмайһығыҙ you dont break
 улар ватмайҙар  they dont break
 
-мин ваттым    im have break
-Һиң ваттың    u have came
-ул ватты      he have came
-беҙ ваттыҡ    we have came
-һеҙ ваттығыҙ  you have came
-улар ваттылар they have came
+мин ваттым    im have broken
+Һиң ваттың    you have broken
+ул ватты      he have broken
+беҙ ваттыҡ    we have broken
+һеҙ ваттығыҙ  you have broken
+улар ваттылар they have broken
 
-мин ватманым    im havent came
-Һиң ватманың    u havent came
-ул ватманы      he havent came
-беҙ ватманыҡ    we havent came
-һеҙ ватманығыҙ  you havent came
-улар ватманылар they havent came
+мин ватманым    im havent broken
+Һиң ватманың    you havent broken
+ул ватманы      he havent broken
+беҙ ватманыҡ    we havent broken
+һеҙ ватманығыҙ  you havent broken
+улар ватманылар they havent broken
 
 мин ватҡанмын
 Һиң ватҡанһың
@@ -54,30 +54,30 @@
 һеҙ ватмаясаҡһығыҙ you will not break
 улар ватмаясаҡтыр  they will not break
 
-мин ватҡым i want to break
-Һиң ватҡың you want to break
-ул ватҡыһы he want to break
-беҙ ватҡыҡ we want to break
-һеҙ ватҡығыҙ you want to break
+мин ватҡым     i want to break
+Һиң ватҡың     you want to break
+ул ватҡыһы     he want to break
+беҙ ватҡыҡ     we want to break
+һеҙ ватҡығыҙ   you want to break
 улар ватҡылары they want to break
 
-мин ватырмын
-Һиң ватырһың
-ул ватыр
-беҙ ватырбыҙ
-һеҙ ватырһығыҙ
-улар ватырҙар
+мин ватырмын   i would break
+Һиң ватырһың   you would break
+ул ватыр       he would break
+беҙ ватырбыҙ   we would break
+һеҙ ватырһығыҙ you would break
+улар ватырҙар  they would break
 
-мин ватмаҫмын
-Һиң ватмаҫһың
-ул ватмаҫ
-беҙ ватмаҫбыҙ
-һеҙ ватмаҫһығыҙ
-улар ватмаҫтыр
+мин ватмаҫмын   i wouldnt break
+Һиң ватмаҫһың   you wouldnt break
+ул ватмаҫ       he wouldnt break
+беҙ ватмаҫбыҙ   we wouldnt break
+һеҙ ватмаҫһығыҙ you wouldnt break
+улар ватмаҫтыр  they wouldnt break
 
-мин ватһам
-Һиң ватһаң
-ул ватһа
-беҙ ватһаҡ
-һеҙ ватһағыҙ
-улар ватһалыр
+мин ватһам    if i will break / if i break
+Һиң ватһаң    if you will break / if you break
+ул ватһа      if he will break / if he break
+беҙ ватһаҡ    if we will break / if we break
+һеҙ ватһағыҙ  if you will break / if you break
+улар ватһалыр if they will break / if they break

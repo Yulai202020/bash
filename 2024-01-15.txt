@@ -1,83 +1,83 @@
-мин алам
-һиң алаһың
-ул ала
-беҙ алабыҙ
-алаһығыҙ
-алалар
+мин алам     im taking
+һиң алаһың   u taking
+ул ала       he taking
+беҙ алабыҙ   we taking
+һеҙ алаһығыҙ you taking
+улар алалар  they taking
 
-мин алмайым
-һиң алмайһың
-ул алмай
-беҙ алмайбыҙ
-алмайһығыһ
-алмайҙар
+мин алмайым    i dont take
+һиң алмайһың   you dont take
+ул алмай       he dont take
+беҙ алмайбыҙ   we dont take
+һеҙ алмайһығыҙ you dont take
+улар алмайҙар  they dont take
 
-мин алдым
-һиң алдың
-ул алды
-беҙ алдыҡ
-алдығыҙ
-алдылар
+мин алдым    im have took
+һиң алдың    you have took
+ул алды      he has took
+беҙ алдыҡ    we have took
+һеҙ алдығыҙ  you have took
+улар алдылар they have took
 
-мин алманым
-һиң алманың
-ул алманы
-беҙ алманыҡ
-алманығыҙ
-алманылар
+мин алманым    im havent took
+һиң алманың    you havent took
+ул алманы      he hasnt took
+беҙ алманыҡ    we havent took
+һеҙ алманығыҙ  you havent took
+улар алманылар they havent took
 
 мин алғанмын
 һиң алғанһың
 ул алған
 беҙ алғанбыҙ
-алғанһығыҙ
-алғандар
+һеҙ алғанһығыҙ
+улар алғандар
 
 мин алмағанмын
 һиң алмағанһың
 ул алмаған
 беҙ алмағанбыҙ
-алмағанһығыҙ
-алмағандар
+һеҙ алмағанһығыҙ
+улар алмағандар
 
-мин аласаҡмын
-һиң аласаҡһың
-ул аласаҡ
-беҙ аласаҡбыҙ
-аласаҡһығыҙ
-аласаҡтар
+мин аласаҡмын   i will take
+һиң аласаҡһың   you will take
+ул аласаҡ       he will take
+беҙ аласаҡбыҙ   we will take
+һеҙ аласаҡһығыҙ you will take
+улар аласаҡтар  they will take
 
-мин алмаясаҡмын
-һиң алмаясаҡһың
-ул алмаясаҡ
-беҙ алмаясаҡбыҙ
-алмаясаҡһығыҙ
-алмаясаҡтар
+мин алмаясаҡмын   i will not take
+һиң алмаясаҡһың   you will not take
+ул алмаясаҡ       he will not take
+беҙ алмаясаҡбыҙ   we will not take
+һеҙ алмаясаҡһығыҙ you will not take
+улар алмаясаҡтар  they will not take
 
-мин алырмын
-һиң алырһың
-ул алыр
-беҙ алырбыҙ
-алырһығыҙ
-алырҙар
+мин алырмын   i would take
+һиң алырһың   you would take
+ул алыр       he would take
+беҙ алырбыҙ   we would take
+һеҙ алырһығыҙ you would take
+улар алырҙар  they would take
 
-мин алмаҫмын
-һиң алмаҫһың
-ул алмаҫ
-беҙ алмаҫбыҙ
-алмаҫһығыҙ
-алмаҫтыр
+мин алмаҫмын   i wouldnt take
+һиң алмаҫһың   you wouldnt take
+ул алмаҫ       he wouldnt take
+беҙ алмаҫбыҙ   we wouldnt take
+һеҙ алмаҫһығыҙ you wouldnt take
+улар алмаҫтыр  they wouldnt take
 
-мин алһам
-һиң алһаң
-ул алһа
-беҙ алһаҡ
-алһағыҙ
-алһалыр
+мин алһам    if i will take / if i take
+һиң алһаң    if you will take / if you take
+ул алһа      if he will take / if he take
+беҙ алһаҡ    if we will take / if we take
+һеҙ алһағыҙ  if you will take / if you take
+улар алһалыр if they will take / if they take
 
-мин алғым килә
-һиң алғың килә
-ул алғыһы килә
-беҙ алғыҡ килә
-алғығыҙ килә
-алғылыр килә
+мин алғым килә    i want to take
+һиң алғың килә    you want to take
+ул алғыһы килә    he want to take
+беҙ алғыҡ килә    we want to take
+һеҙ алғығыҙ килә  you want to take
+улар алғылыр килә they want to take
