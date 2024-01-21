@@ -1,0 +1,83 @@
+мин төҙөйөм im building
+һин төҙөйһөң u building
+ул төҙөй  he building
+беҙ төҙөйбөҙ we building
+һеҙ төҙөйһөгөҙ you building
+улар төҙөйҙәр they building
+
+мин төҙөмәйем  i dont build
+һин төҙөмәйһең i dont build
+ул төҙөмәйе i dont build
+беҙ төҙөмәйбеҙ i dont build
+һеҙ төҙөмәйһегеҙ i dont build
+улар төҙөмәйҙәр i dont build 
+
+мин төҙөнем im have built
+һин төҙөнең you have built
+ул төҙөне he has built
+беҙ төҙөнек we have built
+һеҙ төҙөнегеҙ you have built
+улар төҙөнеләр they have built
+
+мин төҙөмәнем im havent built
+һин төҙөмәнең you havent built
+ул төҙөмәне he hasnt built
+беҙ төҙөмәнек we havent built
+һеҙ төҙөмәнегеҙ you havent built
+улар төҙөмәнеләр they havent built
+
+мин төҙөгәнмен
+һин төҙөгәнһең
+ул төҙөгән
+беҙ төҙөгәнбеҙ
+һеҙ төҙөгәнһегеҙ
+улар төҙөгәндәр
+
+мин төҙөмәгәнмен
+һин төҙөмәгәнһең
+ул төҙөмәгән
+беҙ төҙөмәгәнбеҙ
+һеҙ төҙөмәгәнһегеҙ
+улар төҙөмәгәндәр
+
+мин төҙөйәсәкмен i will build
+һин төҙөйәсәкһең you will build
+ул төҙөйәсәк he will build
+беҙ төҙөйәсәкбеҙ we will build
+һеҙ төҙөйәсәкһегеҙ you will build
+улар төҙөйәсәктәр they will build
+
+мин төҙмәйәсәкмен i will not build
+һин төҙмәйәсәкһең you will not build
+ул төҙмәйәсәк he will not build
+беҙ төҙмәйәсәкбеҙ we will not build
+һеҙ төҙмәйәсәкһегеҙ you will not build
+улар төҙмәйәсәктәр they will not build
+
+мин төҙөрмөн i would build
+һин төҙөрһөң you would build
+ул төҙөр he would build
+беҙ төҙөрбөҙ we would build
+һеҙ төҙөрһөгөҙ you would build
+улар төҙөрҙәр they would build
+
+мин төҙөмәҫмен  i wouldnt build
+һин төҙөмәҫһең  you wouldnt build
+ул төҙөмәҫ  he wouldnt build
+беҙ төҙөмәҫбеҙ  we wouldnt build
+һеҙ төҙөмәҫһегеҙ you wouldnt build
+улар төҙөмәҫтәр they wouldnt build
+
+мин төҙөгем i want to build
+һин төҙөгең you want to build
+ул төҙөгеһе he want to build
+беҙ төҙөгек we want to build
+һеҙ төҙөгегеҙ you want to build
+улар төҙөгеләре they want to build
+
+мин төҙөһәм if i will build / if i build
+һин төҙөһәң if you will build / if you build
+ул төҙөһә if he will build / if he build
+беҙ төҙөһәк if we will build / if we build
+һеҙ төҙөһәгеҙ if you will build / if you build
+улар ытөҙөһәләр if they will build / if they build

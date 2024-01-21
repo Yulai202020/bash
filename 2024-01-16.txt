@@ -54,12 +54,12 @@
 һеҙ ватмаясаҡһығыҙ you will not break
 улар ватмаясаҡтыр  they will not break
 
-мин ватҡым     i want to break
-Һиң ватҡың     you want to break
-ул ватҡыһы     he want to break
-беҙ ватҡыҡ     we want to break
-һеҙ ватҡығыҙ   you want to break
-улар ватҡылары they want to break
+мин ватҡым килә      i want to break
+Һиң ватҡың килә      you want to break
+ул ватҡыһы килә      he want to break
+беҙ ватҡыҡ килә      we want to break
+һеҙ ватҡығыҙ килә    you want to break
+улар ватҡылары килә  they want to break
 
 мин ватырмын   i would break
 Һиң ватырһың   you would break
