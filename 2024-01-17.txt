@@ -1,4 +1,4 @@
-мин төҙөйөм    im building
+мин төҙөйөм    i building
 һин төҙөйһөң   u building
 ул төҙөй       he building
 беҙ төҙөйбөҙ   we building
@@ -12,7 +12,7 @@
 һеҙ төҙөмәйһегеҙ you dont build
 улар төҙөмәйҙәр  they dont build 
 
-мин төҙөнем    im have built
+мин төҙөнем    i have built
 һин төҙөнең    you have built
 ул төҙөне      he has built
 беҙ төҙөнек    we have built
