@@ -1,29 +1,29 @@
-мин төҙөйөм im building
-һин төҙөйһөң u building
-ул төҙөй  he building
-беҙ төҙөйбөҙ we building
+мин төҙөйөм    im building
+һин төҙөйһөң   u building
+ул төҙөй       he building
+беҙ төҙөйбөҙ   we building
 һеҙ төҙөйһөгөҙ you building
-улар төҙөйҙәр they building
+улар төҙөйҙәр  they building
 
-мин төҙөмәйем  i dont build
-һин төҙөмәйһең i dont build
-ул төҙөмәйе i dont build
-беҙ төҙөмәйбеҙ i dont build
-һеҙ төҙөмәйһегеҙ i dont build
-улар төҙөмәйҙәр i dont build 
+мин төҙөмәйем    i dont build
+һин төҙөмәйһең   you dont build
+ул төҙөмәйе      he dont build
+беҙ төҙөмәйбеҙ   we dont build
+һеҙ төҙөмәйһегеҙ you dont build
+улар төҙөмәйҙәр  they dont build 
 
-мин төҙөнем im have built
-һин төҙөнең you have built
-ул төҙөне he has built
-беҙ төҙөнек we have built
-һеҙ төҙөнегеҙ you have built
+мин төҙөнем    im have built
+һин төҙөнең    you have built
+ул төҙөне      he has built
+беҙ төҙөнек    we have built
+һеҙ төҙөнегеҙ  you have built
 улар төҙөнеләр they have built
 
-мин төҙөмәнем im havent built
-һин төҙөмәнең you havent built
-ул төҙөмәне he hasnt built
-беҙ төҙөмәнек we havent built
-һеҙ төҙөмәнегеҙ you havent built
+мин төҙөмәнем    im havent built
+һин төҙөмәнең    you havent built
+ул төҙөмәне      he hasnt built
+беҙ төҙөмәнек    we havent built
+һеҙ төҙөмәнегеҙ  you havent built
 улар төҙөмәнеләр they havent built
 
 мин төҙөгәнмен
@@ -40,31 +40,31 @@
 һеҙ төҙөмәгәнһегеҙ
 улар төҙөмәгәндәр
 
-мин төҙөйәсәкмен i will build
-һин төҙөйәсәкһең you will build
-ул төҙөйәсәк he will build
-беҙ төҙөйәсәкбеҙ we will build
+мин төҙөйәсәкмен   i will build
+һин төҙөйәсәкһең   you will build
+ул төҙөйәсәк       he will build
+беҙ төҙөйәсәкбеҙ   we will build
 һеҙ төҙөйәсәкһегеҙ you will build
-улар төҙөйәсәктәр they will build
+улар төҙөйәсәктәр  they will build
 
-мин төҙмәйәсәкмен i will not build
-һин төҙмәйәсәкһең you will not build
-ул төҙмәйәсәк he will not build
-беҙ төҙмәйәсәкбеҙ we will not build
+мин төҙмәйәсәкмен   i will not build
+һин төҙмәйәсәкһең   you will not build
+ул төҙмәйәсәк       he will not build
+беҙ төҙмәйәсәкбеҙ   we will not build
 һеҙ төҙмәйәсәкһегеҙ you will not build
-улар төҙмәйәсәктәр they will not build
+улар төҙмәйәсәктәр  they will not build
 
-мин төҙөрмөн i would build
-һин төҙөрһөң you would build
-ул төҙөр he would build
-беҙ төҙөрбөҙ we would build
+мин төҙөрмөн   i would build
+һин төҙөрһөң   you would build
+ул төҙөр       he would build
+беҙ төҙөрбөҙ   we would build
 һеҙ төҙөрһөгөҙ you would build
-улар төҙөрҙәр they would build
+улар төҙөрҙәр  they would build
 
 мин төҙөмәҫмен  i wouldnt build
 һин төҙөмәҫһең  you wouldnt build
-ул төҙөмәҫ  he wouldnt build
-беҙ төҙөмәҫбеҙ  we wouldnt build
+ул төҙөмәҫ       he wouldnt build
+беҙ төҙөмәҫбеҙ   we wouldnt build
 һеҙ төҙөмәҫһегеҙ you wouldnt build
 улар төҙөмәҫтәр they wouldnt build
 

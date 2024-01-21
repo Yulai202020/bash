@@ -1,30 +1,30 @@
-мин тоям
-һин тояһың
-ул тоя
-беҙ тоябыҙ
-һеҙ тояһығыҙ
-улар тоялар
+мин тоям im feeling
+һин тояһың u feeling
+ул тоя he feeling
+беҙ тоябыҙ we feeling
+һеҙ тояһығыҙ you feeling
+улар тоялар they feeling
 
-мин тоймайым
-һин тоймайһың
-ул тоймай
-беҙ тоймайбыҙ
-һеҙ тоймайһығыҙ
-улар тоймайҙар
+мин тоймайым i dont feel
+һин тоймайһың you dont feel
+ул тоймай he dont feel
+беҙ тоймайбыҙ we dont feel
+һеҙ тоймайһығыҙ you dont feel
+улар тоймайҙар they dont feel
 
-мин тойҙым
-һин тойҙың
-ул тойҙы
-беҙ тойҙыҡ
-һеҙ тойҙығыҙ
-улар тойҙылыр
+мин тойҙым im have felt
+һин тойҙың im have felt
+ул тойҙы im have felt
+беҙ тойҙыҡ im have felt
+һеҙ тойҙығыҙ im have felt
+улар тойҙылыр im have felt
 
-мин тойманым
-һин тойманың
-ул тойманы
-беҙ тойманыҡ
-һеҙ тойманығыҙ
-улар тойманылыр
+мин тойманым im havent felt
+һин тойманың you havent felt
+ул тойманы he havent felt
+беҙ тойманыҡ we havent felt
+һеҙ тойманығыҙ you havent felt
+улар тойманылыр they havent felt
 
 мин тойғанмын
 һин тойғанһың
@@ -40,44 +40,44 @@
 һеҙ тоймағанһығыҙ
 улар тоймағандар
 
-мин тоясаҡмын
-һин тоясаҡһың
-ул тоясаҡ
-беҙ тоясаҡбыҙ
-һеҙ тоясаҡһығыҙ
-улар тоясаҡтар
+мин тоясаҡмын i will feel
+һин тоясаҡһың you will feel
+ул тоясаҡ he will feel
+беҙ тоясаҡбыҙ we will feel
+һеҙ тоясаҡһығыҙ you will feel
+улар тоясаҡтар they will feel
 
-мин тоймаясаҡмын
-һин тоймаясаҡһың
-ул тоймаясаҡ
-беҙ тоймаясаҡбыҙ
-һеҙ тоймаясаҡһығыҙ
-улар тоймаясаҡтар
+мин тоймаясаҡмын i will not feel
+һин тоймаясаҡһың you will not feel
+ул тоймаясаҡ he will not feel
+беҙ тоймаясаҡбыҙ we will not feel
+һеҙ тоймаясаҡһығыҙ they will not feel
+улар тоймаясаҡтар they will not feel
 
-мин тойормон
-һин тойорһоң
-ул тойор
-беҙ тойорбоҙ
-һеҙ тойорһоғоҙ
-улар тойорҙыр
+мин тойормон i would feel
+һин тойорһоң you would feel
+ул тойор he would feel
+беҙ тойорбоҙ we would feel
+һеҙ тойорһоғоҙ you would feel
+улар тойорҙыр they would feel
 
-мин тоймаҫмын
-һин тоймаҫһың
-ул тоймаҫ
-беҙ тоймаҫбыҙ
-һеҙ тоймаҫһығыҙ
-улар тоймаҫтыр
+мин тоймаҫмын i would not feel
+һин тоймаҫһың you would not feel
+ул тоймаҫ he would not feel
+беҙ тоймаҫбыҙ we would not feel
+һеҙ тоймаҫһығыҙ you would not feel
+улар тоймаҫтыр they would not feel
 
-мин тойғым
-һин тойғың
-ул тойғыһы
-беҙ тойғыҡ
-һеҙ тойғығыҙ
-улар тойғылары
+мин тойғым i want to feel
+һин тойғың you want to feel
+ул тойғыһы he want to feel
+беҙ тойғыҡ we want to feel
+һеҙ тойғығыҙ you want to feel
+улар тойғылары they want to feel
 
-мин тойһам
-һин тойһаң
-ул тойһа
-беҙ тойһаҡ
-һеҙ тойһағыҙ
-улар тойһалар
+мин тойһам if i will feel / if i feel
+һин тойһаң if you will feel / if you feel
+ул тойһа if he will feel / if he feel
+беҙ тойһаҡ if we will feel / if we feel
+һеҙ тойһағыҙ if you will feel / if you feel
+улар тойһалар if they will feel / if they feel
