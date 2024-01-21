@@ -19,7 +19,7 @@
 һеҙ төҙөнегеҙ  you have built
 улар төҙөнеләр they have built
 
-мин төҙөмәнем    im havent built
+мин төҙөмәнем    i havent built
 һин төҙөмәнең    you havent built
 ул төҙөмәне      he hasnt built
 беҙ төҙөмәнек    we havent built
@@ -61,23 +61,23 @@
 һеҙ төҙөрһөгөҙ you would build
 улар төҙөрҙәр  they would build
 
-мин төҙөмәҫмен  i wouldnt build
-һин төҙөмәҫһең  you wouldnt build
+мин төҙөмәҫмен   i wouldnt build
+һин төҙөмәҫһең   you wouldnt build
 ул төҙөмәҫ       he wouldnt build
 беҙ төҙөмәҫбеҙ   we wouldnt build
 һеҙ төҙөмәҫһегеҙ you wouldnt build
-улар төҙөмәҫтәр they wouldnt build
+улар төҙөмәҫтәр  they wouldnt build
 
-мин төҙөгем i want to build
-һин төҙөгең you want to build
-ул төҙөгеһе he want to build
-беҙ төҙөгек we want to build
-һеҙ төҙөгегеҙ you want to build
+мин төҙөгем     i want to build
+һин төҙөгең     you want to build
+ул төҙөгеһе     he want to build
+беҙ төҙөгек     we want to build
+һеҙ төҙөгегеҙ   you want to build
 улар төҙөгеләре they want to build
 
-мин төҙөһәм if i will build / if i build
-һин төҙөһәң if you will build / if you build
-ул төҙөһә if he will build / if he build
-беҙ төҙөһәк if we will build / if we build
-һеҙ төҙөһәгеҙ if you will build / if you build
+мин төҙөһәм     if i will build / if i build
+һин төҙөһәң     if you will build / if you build
+ул төҙөһә       if he will build / if he build
+беҙ төҙөһәк     if we will build / if we build
+һеҙ төҙөһәгеҙ   if you will build / if you build
 улар ытөҙөһәләр if they will build / if they build
