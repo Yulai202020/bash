@@ -1,29 +1,29 @@
-мин эсәм i drink
-һиң эсәһең u drink
-ул эсә he drink
-беҙ эсәбеҙ we drink
+мин эсәм     i drink
+һиң эсәһең   u drink
+ул эсә       he drink
+беҙ эсәбеҙ   we drink
 һеҙ эсәһегеҙ you drink
-улар эсәләр they drink
+улар эсәләр  they drink
 
-мин эсмәйем i dont drink
-һиң эсмәйһең you dont drink
-ул эсмәй he dont drink
-беҙ эсмәйбеҙ we dont drink
+мин эсмәйем    i dont drink
+һиң эсмәйһең   you dont drink
+ул эсмәй       he dont drink
+беҙ эсмәйбеҙ   we dont drink
 һеҙ эсмәйһегеҙ you dont drink
-улар эсмәйҙәр they dont drink
+улар эсмәйҙәр  they dont drink
 
-мин эстем i have drank
-һиң эстең you have drank
-ул эсте he have drank
-беҙ эстек we have drank
-һеҙ эстегеҙ you have drank
+мин эстем    i have drank
+һиң эстең    you have drank
+ул эсте      he have drank
+беҙ эстек    we have drank
+һеҙ эстегеҙ  you have drank
 улар эстеләр they have drank
 
-мин эсмәнем i havent drank
-һиң эсмәнең you havent drank
-ул эсмәне he havent drank
-беҙ эсмәнек we havent drank
-һеҙ эсмәнегеҙ you havent drank
+мин эсмәнем    i havent drank
+һиң эсмәнең    you havent drank
+ул эсмәне      he havent drank
+беҙ эсмәнек    we havent drank
+һеҙ эсмәнегеҙ  you havent drank
 улар эсмәнеләр they havent drank
 
 мин эскәнмен
@@ -40,44 +40,44 @@
 һеҙ эсмәгәнһегеҙ
 улар эсмәгәндәр
 
-мин эсәсәкмен i will drink
-һиң эсәсәкһең you will drink
-ул эсәсәк he will drink
-беҙ эсәсәкбеҙ we will drink
+мин эсәсәкмен   i will drink
+һиң эсәсәкһең   you will drink
+ул эсәсәк       he will drink
+беҙ эсәсәкбеҙ   we will drink
 һеҙ эсәсәкһегеҙ you will drink
-улар эсәсәктәр they will drink
+улар эсәсәктәр  they will drink
 
-мин эсмәйәсәкмен i will not drink
-һиң эсмәйәсәкһең you will not drink
-ул эсмәйәсәк he will not drink
-беҙ эсмәйәсәкбеҙ we will not drink
+мин эсмәйәсәкмен   i will not drink
+һиң эсмәйәсәкһең   you will not drink
+ул эсмәйәсәк       he will not drink
+беҙ эсмәйәсәкбеҙ   we will not drink
 һеҙ эсмәйәсәкһегеҙ you will not drink
-улар эсмәйәсәктәр they will not drink
+улар эсмәйәсәктәр  they will not drink
 
-мин эсһәм if i will drink / if i drink
-һиң эсһәң if you will drink / if you drink
-ул эсһә if he will drink / if he drink
-беҙ эсһәк if we will drink / if we drink
-һеҙ эсһәгеҙ if you will drink / if you drink
-улар эсһәләр if they will drink / if they drink
+мин эсһәм     if i will drink / if i drink
+һиң эсһәң     if you will drink / if you drink
+ул эсһә       if he will drink / if he drink
+беҙ эсһәк     if we will drink / if we drink
+һеҙ эсһәгеҙ   if you will drink / if you drink
+улар эсһәләр  if they will drink / if they drink
 
-мин эсермен i would drink
-һиң эсерһең you would drink
-ул эсер he would drink
-беҙ эсербеҙ we would drink
+мин эсермен   i would drink
+һиң эсерһең   you would drink
+ул эсер       he would drink
+беҙ эсербеҙ   we would drink
 һеҙ эсерһегеҙ you would drink
-улар эсерҙәр they would drink
+улар эсерҙәр  they would drink
 
-мин эсмәҫмен i wouldnt drink
-һиң эсмәҫһең you wouldnt drink
-ул эсмәҫ he wouldnt drink
-беҙ эсмәҫбеҙ we wouldnt drink
+мин эсмәҫмен   i wouldnt drink
+һиң эсмәҫһең   you wouldnt drink
+ул эсмәҫ       he wouldnt drink
+беҙ эсмәҫбеҙ   we wouldnt drink
 һеҙ эсмәҫһегеҙ you wouldnt drink
-улар эсмәҫтәр they wouldnt drink
+улар эсмәҫтәр  they wouldnt drink
 
-мин эсгем килә  i want to drink
-һиң эсгең килә you want to drink
-ул эсгеһе килә he want to drink
-беҙ эсгек килә we want to drink
-һеҙ эсгегеҙ килә you want to drink
+мин эсгем килә     i want to drink
+һиң эсгең килә     you want to drink
+ул эсгеһе килә     he want to drink
+беҙ эсгек килә     we want to drink
+һеҙ эсгегеҙ килә   you want to drink
 улар эсгеләре килә they want to drink
