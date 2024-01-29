@@ -1,30 +1,30 @@
-мин юғалтам i drink
-һиң юғалтаһың i drink
-ул юғалта i drink
-беҙ юғалтабыҙ i drink
-һеҙ юғалтаһығыҙ i drink
-улар юғалталар i drink
+мин юғалтам i lose
+һиң юғалтаһың i lose
+ул юғалта i lose
+беҙ юғалтабыҙ i lose
+һеҙ юғалтаһығыҙ i lose
+улар юғалталар i lose
 
-мин юғалтмайым i dont drink
-һиң юғалтмайһың i dont drink
-ул юғалтмай i dont drink
-беҙ юғалтмайбыҙ i dont drink
-һеҙ юғалтмайһығыҙ i dont drink
-улар юғалтмайҙар i dont drink
+мин юғалтмайым i dont lose
+һиң юғалтмайһың i dont lose
+ул юғалтмай i dont lose
+беҙ юғалтмайбыҙ i dont lose
+һеҙ юғалтмайһығыҙ i dont lose
+улар юғалтмайҙар i dont lose
 
-мин юғалттым i have drank
-һиң юғалттың i have drank
-ул юғалтты i have drank
-беҙ юғалттыҡ i have drank
-һеҙ юғалттығыҙ i have drank
-улар юғалттылар i have drank
+мин юғалттым i have lost
+һиң юғалттың i have lost
+ул юғалтты i have lost
+беҙ юғалттыҡ i have lost
+һеҙ юғалттығыҙ i have lost
+улар юғалттылар i have lost
 
-мин юғалтманым i havent drank
-һиң юғалтманың i havent drank
-ул юғалтманы i havent drank
-беҙ юғалтманыҡ i havent drank
-һеҙ юғалтманығыҙ i havent drank
-улар юғалтманылыр i havent drank
+мин юғалтманым i havent lost
+һиң юғалтманың i havent lost
+ул юғалтманы i havent lost
+беҙ юғалтманыҡ i havent lost
+һеҙ юғалтманығыҙ i havent lost
+улар юғалтманылыр i havent lost
 
 мин юғалтҡанмын
 һиң юғалтҡанһың
@@ -40,19 +40,19 @@
 һеҙ юғалтмағанһығыҙ
 улар юғалтмағандар
 
-мин юғалтасаҡмын
-һиң юғалтасаҡһың
-ул юғалтасаҡ
-беҙ юғалтасаҡбыҙ
-һеҙ юғалтасаҡһығыҙ
-улар юғалтасаҡтар
+мин юғалтасаҡмын i will lose
+һиң юғалтасаҡһың  i will lose
+ул юғалтасаҡ i will lose
+беҙ юғалтасаҡбыҙ i will lose
+һеҙ юғалтасаҡһығыҙ i will lose
+улар юғалтасаҡтар i will lose
 
-мин юғалтмаясаҡмын
-һиң юғалтмаясаҡһың
-ул юғалтмаясаҡ
-беҙ юғалтмаясаҡбыҙ
-һеҙ юғалтмаясаҡһығыҙ
-улар юғалтмаясаҡтар
+мин юғалтмаясаҡмын i will not lose
+һиң юғалтмаясаҡһың i will not lose
+ул юғалтмаясаҡ i will not lose
+беҙ юғалтмаясаҡбыҙ i will not lose
+һеҙ юғалтмаясаҡһығыҙ i will not lose
+улар юғалтмаясаҡтар i will not lose
 
 мин юғалтһам
 һиң юғалтһаң
