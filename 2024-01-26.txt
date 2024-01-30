@@ -5,26 +5,26 @@
 һеҙ осаһығыҙ you fly
 улар осалар i fly
 
-мин осмайым i dont lose
-һиң осмайһың i dont lose
-ул осмай i dont lose
-беҙ осмайбыҙ i dont lose
-һеҙ осмайһығыҙ i dont lose
-улар осмайҙар i dont lose
+мин осмайым i dont fly
+һиң осмайһың i dont fly
+ул осмай i dont fly
+беҙ осмайбыҙ i dont fly
+һеҙ осмайһығыҙ i dont fly
+улар осмайҙар i dont fly
 
-мин остым i have lost
-һиң остың i have lost
-ул осты i have lost
-беҙ остыҡ i have lost
-һеҙ остығыҙ i have lost
-улар остылар i have lost
+мин остым i have flew
+һиң остың i have flew
+ул осты i have flew
+беҙ остыҡ i have flew
+һеҙ остығыҙ i have flew
+улар остылар i have flew
 
-мин османым i havent lost
-һиң османың i havent lost
-ул османы i havent lost
-беҙ османыҡ i havent lost
-һеҙ османығыҙ i havent lost
-улар османылар i havent lost
+мин османым i havent flew
+һиң османың i havent flew
+ул османы i havent flew
+беҙ османыҡ i havent flew
+һеҙ османығыҙ i havent flew
+улар османылар i havent flew
 
 мин осҡанмын
 һиң осҡанһың
@@ -40,19 +40,19 @@
 һеҙ осмағанһығыҙ
 улар осмағандар
 
-мин осасаҡмын i will lose
-һиң осасаҡһың i will lose
-ул осасаҡ i will lose
-беҙ осасаҡбыҙ i will lose
-һеҙ осасаҡһығыҙ i will lose
-улар осасаҡтар i will lose
+мин осасаҡмын i will fly
+һиң осасаҡһың i will fly
+ул осасаҡ i will fly
+беҙ осасаҡбыҙ i will fly
+һеҙ осасаҡһығыҙ i will fly
+улар осасаҡтар i will fly
 
-мин осмаясаҡмын i will not lose
-һиң осмаясаҡһың i will not lose
-ул осмаясаҡ i will not lose
-беҙ осмаясаҡбыҙ i will not lose
-һеҙ осмаясаҡһығыҙ i will not lose
-улар осмаясаҡтар i will not lose
+мин осмаясаҡмын i will not fly
+һиң осмаясаҡһың i will not fly
+ул осмаясаҡ i will not fly
+беҙ осмаясаҡбыҙ i will not fly
+һеҙ осмаясаҡһығыҙ i will not fly
+улар осмаясаҡтар i will not fly
 
 мин осһам
 һиң осһаң
