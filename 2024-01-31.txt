@@ -1,0 +1,83 @@
+мин тешләйем i bite
+һиң тешләйһең you bite
+ул тешләй he bite
+беҙ тешләйбеҙ we bite
+һеҙ тешләйһегеҙ you bite
+улар тешләйҙәр they bite
+
+мин тешләмәйем i dont bite
+һиң тешләмәйһең you dont bite
+ул тешләмәй he dont bite
+беҙ тешләмәйбеҙ we dont bite
+һеҙ тешләмәйһегеҙ you dont bite
+улар тешләмәйҙәр they dont bite
+
+мин тешләнем i have bite
+һиң тешләнең you have bite
+ул тешләне he have bite
+беҙ тешләнек we have bite
+һеҙ тешләнегеҙ you have bite
+улар тешләнеләр they have bite
+
+мин тешләмәнем i havent bite
+һиң тешләмәнең you havent bite
+ул тешләмәне he havent bite
+беҙ тешләмәнек we havent bite
+һеҙ тешләмәнегеҙ you havent bite
+улар тешләмәнеләр they havent bite
+
+мин тешләгән
+һиң тешләгән
+ул тешләгән
+беҙ тешләгән
+һеҙ тешләгән
+улар тешләгән
+
+мин тешләгән
+һиң тешләгән
+ул тешләгән
+беҙ тешләгән
+һеҙ тешләгән
+улар тешләгән
+
+мин тешлә i will bite
+һиң тешлә you will bite
+ул тешлә he will bite
+беҙ тешлә we will bite
+һеҙ тешлә you will bite
+улар тешлә they will bite
+
+мин тешлә i will not bite
+һиң тешлә you will not bite
+ул тешлә he will not bite
+беҙ тешлә we will not bite
+һеҙ тешлә you will not bite
+улар тешлә they will not bite
+
+мин тешлә if i will bite / if i bite
+һиң тешлә if you will bite / if you bite
+ул тешлә if he will bite / if he bite
+беҙ тешлә if we will bite / if we bite
+һеҙ тешлә if you will bite / if you bite
+улар тешлә if they will bite / if they bite
+
+мин тешлә i would bite
+һиң тешлә you would bite
+ул тешлә he would bite
+беҙ тешлә we would bite
+һеҙ тешлә you would bite
+улар тешлә they would bite
+
+мин тешлә i wouldnt bite
+һиң тешлә you wouldnt bite
+ул тешлә he wouldnt bite
+беҙ тешлә we wouldnt bite
+һеҙ тешлә you wouldnt bite
+улар тешлә they wouldnt bite
+
+мин тешлә килә i want to drink
+һиң тешлә килә you want to drink
+ул тешлә килә he want to drink
+беҙ тешлә килә we want to drink
+һеҙ тешлә килә you want to drink
+улар тешлә килә they want to drink

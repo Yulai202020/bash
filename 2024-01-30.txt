@@ -19,12 +19,12 @@
 һеҙ яҙҙығыҙ you have write
 улар яҙҙылар they have write
 
-мин яҙманым i havent write
-һиң яҙманың you havent write
-ул яҙманы he hasnt write
-беҙ яҙманыҡ we havent write
-һеҙ яҙманығыҙ you havent write
-улар яҙманылар they havent write
+мин яҙманым i havent wrote
+һиң яҙманың you havent wrote
+ул яҙманы he hasnt wrote
+беҙ яҙманыҡ we havent wrote
+һеҙ яҙманығыҙ you havent wrote
+улар яҙманылар they havent wrote
 
 мин яҙҡанмын
 һиң яҙҡанһың
@@ -40,21 +40,21 @@
 һеҙ яҙмағанһығыҙ
 улар яҙмағандар
 
-мин яҙасаҡмын i will 
-һиң яҙасаҡһың
-ул яҙасаҡ
-беҙ яҙасаҡбыҙ
-һеҙ яҙасаҡһығыҙ
-улар яҙасаҡтар
+мин яҙасаҡмын i will write
+һиң яҙасаҡһың i will write
+ул яҙасаҡ i will write
+беҙ яҙасаҡбыҙ i will write
+һеҙ яҙасаҡһығыҙ i will write
+улар яҙасаҡтар i will write
 
-мин яҙмаясаҡмын
-һиң яҙмаясаҡһың
-ул яҙмаясаҡ
-беҙ яҙмаясаҡбыҙ
-һеҙ яҙмаясаҡһығыҙ
-улар яҙмаясаҡтар
+мин яҙмаясаҡмын i will not write
+һиң яҙмаясаҡһың i will not write
+ул яҙмаясаҡ i will not write
+беҙ яҙмаясаҡбыҙ i will not write
+һеҙ яҙмаясаҡһығыҙ i will not write
+улар яҙмаясаҡтар i will not write
 
-мин яҙырмын
+мин яҙырмын 
 һиң яҙырһың
 ул яҙыр
 беҙ яҙырбыҙ
