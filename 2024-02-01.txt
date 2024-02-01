@@ -7,24 +7,24 @@
 
 мин күтерелмәйем i dont rise
 һиң күтерелмәйһең you dont rise
-ул күтерелмәй he dont rise
+ул күтерелмәй he doesnt rise
 беҙ күтерелмәйбеҙ we dont rise
 һеҙ күтерелмәйһегеҙ you dont rise
 улар күтерелмәйҙәр they dont rise
 
 мин күтерелдем i have rose
 һиң күтерелдең you have rose
-ул күтерелде he have rose
+ул күтерелде he has rose
 беҙ күтерелдек we have rose
 һеҙ күтерелдегеҙ you have rose
 улар күтерелделәр they have rose
 
-мин күтерелмәнем i havent rose
-һиң күтерелмәнең you havent rose
-ул күтерелмәне he havent rose
-беҙ күтерелмәнек we havent rose
-һеҙ күтерелмәнегеҙ you havent rose
-улар күтерелмәнеләр they havent rose
+мин күтерелмәнем i havent risen
+һиң күтерелмәнең you havent risen
+ул күтерелмәне he hasnt risen
+беҙ күтерелмәнек we havent risen
+һеҙ күтерелмәнегеҙ you havent risen
+улар күтерелмәнеләр they havent risen
 
 мин күтерелгәнмен
 һиң күтерелгәнһең
@@ -77,7 +77,7 @@
 
 мин күтерелгем килә i want to rise
 һиң күтерелгең килә you want to rise
-ул күтерелгеһе килә he want to rise
+ул күтерелгеһе килә he wants to rise
 беҙ күтерелгек килә we want to rise
 һеҙ күтерелгегеҙ килә you want to rise
 улар күтерелгеләре килә they want to rise
