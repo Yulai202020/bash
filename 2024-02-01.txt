@@ -40,19 +40,19 @@
 һеҙ күтерелмәгәнһегеҙ
 улар күтерелмәгәндәр
 
-мин күтереләсәк i will rise
-һиң күтереләсәк you will rise
+мин күтереләсәкмен i will rise
+һиң күтереләсәкһең you will rise
 ул күтереләсәк he will rise
-беҙ күтереләсәк we will rise
-һеҙ күтереләсәк you will rise
-улар күтереләсәк they will rise
+беҙ күтереләсәкбеҙ we will rise
+һеҙ күтереләсәкһегеҙ you will rise
+улар күтереләсәктәр they will rise
 
-мин күтерелмәйәсек i will not rise
-һиң күтерелмәйәсек you will not rise
+мин күтерелмәйәсекмен i will not rise
+һиң күтерелмәйәсекһең you will not rise
 ул күтерелмәйәсек he will not rise
-беҙ күтерелмәйәсек we will not rise
-һеҙ күтерелмәйәсек you will not rise
-улар күтерелмәйәсек they will not rise
+беҙ күтерелмәйәсекбеҙ we will not rise
+һеҙ күтерелмәйәсекһегеҙ you will not rise
+улар күтерелмәйәсектәр they will not rise
 
 мин күтерелһәм if i will rise / if i rise
 һиң күтерелһәң if you will rise / if you rise
