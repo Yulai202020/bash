@@ -40,19 +40,19 @@
 һеҙ тешләгән
 улар тешләгән
 
-мин тешлә i will bite
-һиң тешлә you will bite
-ул тешлә he will bite
-беҙ тешлә we will bite
-һеҙ тешлә you will bite
-улар тешлә they will bite
+мин тешләйәсәк i will bite
+һиң тешләйәсәк you will bite
+ул тешләйәсәк he will bite
+беҙ тешләйәсәк we will bite
+һеҙ тешләйәсәк you will bite
+улар тешләйәсәк they will bite
 
-мин тешлә i will not bite
-һиң тешлә you will not bite
-ул тешлә he will not bite
-беҙ тешлә we will not bite
-һеҙ тешлә you will not bite
-улар тешлә they will not bite
+мин тешләмәйәсәк i will not bite
+һиң тешләмәйәсәк you will not bite
+ул тешләмәйәсәк he will not bite
+беҙ тешләмәйәсәк we will not bite
+һеҙ тешләмәйәсәк you will not bite
+улар тешләмәйәсәк they will not bite
 
 мин тешлә if i will bite / if i bite
 һиң тешлә if you will bite / if you bite
@@ -75,9 +75,9 @@
 һеҙ тешлә you wouldnt bite
 улар тешлә they wouldnt bite
 
-мин тешлә килә i want to drink
-һиң тешлә килә you want to drink
-ул тешлә килә he want to drink
-беҙ тешлә килә we want to drink
-һеҙ тешлә килә you want to drink
-улар тешлә килә they want to drink
+мин тешлә килә i want to bite
+һиң тешлә килә you want to bite
+ул тешлә килә he want to bite
+беҙ тешлә килә we want to bite
+һеҙ тешлә килә you want to bite
+улар тешлә килә they want to bite

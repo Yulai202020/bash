@@ -1,0 +1,83 @@
+мин күтереләйем i rise
+һиң күтереләйһең you rise
+ул күтереләй he rise
+беҙ күтереләйбеҙ we rise
+һеҙ күтереләйһегеҙ you rise
+улар күтереләйҙәр they rise
+
+мин күтерелмәйем i dont rise
+һиң күтерелмәйһең you dont rise
+ул күтерелмәй he dont rise
+беҙ күтерелмәйбеҙ we dont rise
+һеҙ күтерелмәйһегеҙ you dont rise
+улар күтерелмәйҙәр they dont rise
+
+мин күтерелдем i have rose
+һиң күтерелдең you have rose
+ул күтерелде he have rose
+беҙ күтерелдек we have rose
+һеҙ күтерелдегеҙ you have rose
+улар күтерелделәр they have rose
+
+мин күтерелмәнем i havent rose
+һиң күтерелмәнең you havent rose
+ул күтерелмәне he havent rose
+беҙ күтерелмәнек we havent rose
+һеҙ күтерелмәнегеҙ you havent rose
+улар күтерелмәнеләр they havent rose
+
+мин күтерелгәнмен
+һиң күтерелгәнһең
+ул күтерелгән
+беҙ күтерелгәнбеҙ
+һеҙ күтерелгәнһегеҙ
+улар күтерелгәндәр
+
+мин күтерелмәгәнмен
+һиң күтерелмәгәнһең
+ул күтерелмәгән
+беҙ күтерелмәгәнбеҙ
+һеҙ күтерелмәгәнһегеҙ
+улар күтерелмәгәндәр
+
+мин күтереләсәк i will rise
+һиң күтереләсәк you will rise
+ул күтереләсәк he will rise
+беҙ күтереләсәк we will rise
+һеҙ күтереләсәк you will rise
+улар күтереләсәк they will rise
+
+мин күтерелмәйәсек i will not rise
+һиң күтерелмәйәсек you will not rise
+ул күтерелмәйәсек he will not rise
+беҙ күтерелмәйәсек we will not rise
+һеҙ күтерелмәйәсек you will not rise
+улар күтерелмәйәсек they will not rise
+
+мин күтерелһәм if i will rise / if i rise
+һиң күтерелһәң if you will rise / if you rise
+ул күтерелһә if he will rise / if he rise
+беҙ күтерелһәкы if we will rise / if we rise
+һеҙ күтерелһәгеҙ if you will rise / if you rise
+улар күтерелһәләр if they will rise / if they rise
+
+мин күтерелермен i would rise
+һиң күтерелерһең you would rise
+ул күтерелер he would rise
+беҙ күтерелербеҙ we would rise
+һеҙ күтерелерһегеҙ you would rise
+улар күтерелерҙәр they would rise
+
+мин күтерелмәҫмен i wouldnt rise
+һиң күтерелмәҫһең you wouldnt rise
+ул күтерелмәҫ he wouldnt rise
+беҙ күтерелмәҫбеҙ we wouldnt rise
+һеҙ күтерелмәҫһегеҙ you wouldnt rise
+улар күтерелмәҫтәр they wouldnt rise
+
+мин күтерелгем килә i want to rise
+һиң күтерелгең килә you want to rise
+ул күтерелгеһе килә he want to rise
+беҙ күтерелгек килә we want to rise
+һеҙ күтерелгегеҙ килә you want to rise
+улар күтерелгеләре килә they want to rise
