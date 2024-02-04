@@ -7,24 +7,24 @@
 
 мин яҙмайым i dont write
 һиң яҙмайһың you dont write
-ул яҙмай he dont write
+ул яҙмай he doesnt write
 беҙ яммайбыҙ we dont write
 һеҙ яҙмайһығыҙ you dont write
 улар яҙмайҙар they dont write
 
-мин яҙҙым i have write
-һиң яҙҙың you have write
-ул яҙҙы he has write
-беҙ яҙҙыҡ we have write
-һеҙ яҙҙығыҙ you have write
-улар яҙҙылар they have write
+мин яҙҙым i have written
+һиң яҙҙың you have written
+ул яҙҙы he has written
+беҙ яҙҙыҡ we have written
+һеҙ яҙҙығыҙ you have written
+улар яҙҙылар they have written
 
-мин яҙманым i havent wrote
-һиң яҙманың you havent wrote
-ул яҙманы he hasnt wrote
-беҙ яҙманыҡ we havent wrote
-һеҙ яҙманығыҙ you havent wrote
-улар яҙманылар they havent wrote
+мин яҙманым i havent written
+һиң яҙманың you havent written
+ул яҙманы he hasnt written
+беҙ яҙманыҡ we havent written
+һеҙ яҙманығыҙ you havent written
+улар яҙманылар they havent written
 
 мин яҙҡанмын
 һиң яҙҡанһың
@@ -41,18 +41,18 @@
 улар яҙмағандар
 
 мин яҙасаҡмын i will write
-һиң яҙасаҡһың i will write
-ул яҙасаҡ i will write
-беҙ яҙасаҡбыҙ i will write
-һеҙ яҙасаҡһығыҙ i will write
-улар яҙасаҡтар i will write
+һиң яҙасаҡһың you will write
+ул яҙасаҡ he will write
+беҙ яҙасаҡбыҙ we will write
+һеҙ яҙасаҡһығыҙ you will write
+улар яҙасаҡтар they will write
 
 мин яҙмаясаҡмын i will not write
-һиң яҙмаясаҡһың i will not write
-ул яҙмаясаҡ i will not write
-беҙ яҙмаясаҡбыҙ i will not write
-һеҙ яҙмаясаҡһығыҙ i will not write
-улар яҙмаясаҡтар i will not write
+һиң яҙмаясаҡһың you will not write
+ул яҙмаясаҡ he will not write
+беҙ яҙмаясаҡбыҙ we will not write
+һеҙ яҙмаясаҡһығыҙ you will not write
+улар яҙмаясаҡтар they will not write
 
 мин яҙырмын 
 һиң яҙырһың

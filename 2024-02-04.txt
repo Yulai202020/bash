@@ -1,0 +1,83 @@
+мин ишетәйем i hear
+һиң ишетәйһең you hear
+ул ишетәй he hear
+беҙ ишетәйбеҙ we hear
+һеҙ ишетәйһегеҙ you hear
+улар ишетәйҙәр they hear
+
+мин ишетмәйем i dont hear
+һиң ишетмәйһең you dont hear
+ул ишетмәй he doesnt hear
+беҙ ишетмәйбеҙ we dont hear
+һеҙ ишетмәйһегеҙ you dont hear
+улар ишетмәйҙәр they dont hear
+
+мин ишеттем i have heard
+һиң ишеттең you have heard
+ул ишетте he has heard
+беҙ ишеттек we have heard
+һеҙ ишеттегеҙ you have heard
+улар ишеттеләр they have heard
+
+мин ишетмәнем i havent heard
+һиң ишетмәнең you havent heard
+ул ишетмәне he hasnt heard
+беҙ ишетмәнек we havent heard
+һеҙ ишетмәнегеҙ you havent heard
+улар ишетмәнеләр they havent heard
+
+мин ишетҡән
+һиң ишетҡән
+ул ишетҡән
+беҙ ишетҡән
+һеҙ ишетҡән
+улар ишетҡән
+
+мин ишетмәгән
+һиң ишетмәгән
+ул ишетмәгән
+беҙ ишетмәгән
+һеҙ ишетмәгән
+улар ишетмәгән
+
+мин ишетәсәк i will hear
+һиң ишетәсәк you will hear
+ул ишетәсәк he will hear
+беҙ ишетәсәк we will hear
+һеҙ ишетәсәк you will hear
+улар ишетәсәк they will hear
+
+мин ишетмәйәсәк i will not hear
+һиң ишетмәйәсәк you will not hear
+ул ишетмәйәсәк he will not hear
+беҙ ишетмәйәсәк we will not hear
+һеҙ ишетмәйәсәк you will not hear
+улар ишетмәйәсәк they will not hear
+
+мин ишетһәм if i will hear / if i hear
+һиң ишетһә if you will hear / if you hear
+ул ишетһә if he will hear / if he hear
+беҙ ишетһә if we will hear / if we hear
+һеҙ ишетһә if you will hear / if you hear
+улар ишетһә if they will hear / if they hear
+
+мин ишетер i would hear
+һиң ишетер you would hear
+ул ишетер he would hear
+беҙ ишетер we would hear
+һеҙ ишетер you would hear
+улар ишетер they would hear
+
+мин ишетмәҫ i wouldnt hear
+һиң ишетмәҫ you wouldnt hear
+ул ишетмәҫ he wouldnt hear
+беҙ ишетмәҫ we wouldnt hear
+һеҙ ишетмәҫ you wouldnt hear
+улар ишетмәҫ they wouldnt hear
+
+мин ишетҡәм килә i want to hear
+һиң ишетҡә килә you want to hear
+ул ишетҡә килә he want to hear
+беҙ ишетҡә килә we want to hear
+һеҙ ишетҡә килә you want to hear
+улар ишетҡә килә they want to hear

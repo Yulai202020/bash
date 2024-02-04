@@ -7,24 +7,24 @@
 
 мин тешләмәйем i dont bite
 һиң тешләмәйһең you dont bite
-ул тешләмәй he dont bite
+ул тешләмәй he doesnt bite
 беҙ тешләмәйбеҙ we dont bite
 һеҙ тешләмәйһегеҙ you dont bite
 улар тешләмәйҙәр they dont bite
 
-мин тешләнем i have bite
-һиң тешләнең you have bite
-ул тешләне he have bite
-беҙ тешләнек we have bite
-һеҙ тешләнегеҙ you have bite
-улар тешләнеләр they have bite
+мин тешләнем i have biten
+һиң тешләнең you have biten
+ул тешләне he has biten
+беҙ тешләнек we have biten
+һеҙ тешләнегеҙ you have biten
+улар тешләнеләр they have biten
 
-мин тешләмәнем i havent bite
-һиң тешләмәнең you havent bite
-ул тешләмәне he havent bite
-беҙ тешләмәнек we havent bite
-һеҙ тешләмәнегеҙ you havent bite
-улар тешләмәнеләр they havent bite
+мин тешләмәнем i havent biten
+һиң тешләмәнең you havent biten
+ул тешләмәне he hasnt biten
+беҙ тешләмәнек we havent biten
+һеҙ тешләмәнегеҙ you havent biten
+улар тешләмәнеләр they havent biten
 
 мин тешләгән
 һиң тешләгән
