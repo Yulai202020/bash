@@ -26,54 +26,54 @@
 һеҙ ишетмәнегеҙ you havent heard
 улар ишетмәнеләр they havent heard
 
-мин ишетҡән
-һиң ишетҡән
+мин ишетҡәнмен
+һиң ишетҡәнһең
 ул ишетҡән
-беҙ ишетҡән
-һеҙ ишетҡән
-улар ишетҡән
+беҙ ишетҡәнбеҙ
+һеҙ ишетҡәнһегеҙ
+улар ишетҡәндәр
 
-мин ишетмәгән
-һиң ишетмәгән
+мин ишетмәгәнмен
+һиң ишетмәгәнһең
 ул ишетмәгән
-беҙ ишетмәгән
-һеҙ ишетмәгән
-улар ишетмәгән
+беҙ ишетмәгәнбеҙ
+һеҙ ишетмәгәнһегеҙ
+улар ишетмәгәндәр
 
-мин ишетәсәк i will hear
-һиң ишетәсәк you will hear
+мин ишетәсәкмен i will hear
+һиң ишетәсәкһең you will hear
 ул ишетәсәк he will hear
-беҙ ишетәсәк we will hear
-һеҙ ишетәсәк you will hear
-улар ишетәсәк they will hear
+беҙ ишетәсәкбеҙ we will hear
+һеҙ ишетәсәкһегеҙ you will hear
+улар ишетәсәктәр they will hear
 
-мин ишетмәйәсәк i will not hear
-һиң ишетмәйәсәк you will not hear
+мин ишетмәйәсәкмен i will not hear
+һиң ишетмәйәсәкһең you will not hear
 ул ишетмәйәсәк he will not hear
-беҙ ишетмәйәсәк we will not hear
-һеҙ ишетмәйәсәк you will not hear
-улар ишетмәйәсәк they will not hear
+беҙ ишетмәйәсәкбеҙ we will not hear
+һеҙ ишетмәйәсәкһегеҙ you will not hear
+улар ишетмәйәсәктәр they will not hear
 
 мин ишетһәм if i will hear / if i hear
-һиң ишетһә if you will hear / if you hear
+һиң ишетһәң if you will hear / if you hear
 ул ишетһә if he will hear / if he hear
-беҙ ишетһә if we will hear / if we hear
-һеҙ ишетһә if you will hear / if you hear
-улар ишетһә if they will hear / if they hear
+беҙ ишетһәк if we will hear / if we hear
+һеҙ ишетһәгеҙ if you will hear / if you hear
+улар ишетһәләр if they will hear / if they hear
 
-мин ишетер i would hear
-һиң ишетер you would hear
+мин ишетермен i would hear
+һиң ишетерһең you would hear
 ул ишетер he would hear
-беҙ ишетер we would hear
-һеҙ ишетер you would hear
-улар ишетер they would hear
+беҙ ишетербеҙ we would hear
+һеҙ ишетерһегеҙ you would hear
+улар ишетерҙәр they would hear
 
-мин ишетмәҫ i wouldnt hear
-һиң ишетмәҫ you wouldnt hear
+мин ишетмәҫмен i wouldnt hear
+һиң ишетмәҫһең you wouldnt hear
 ул ишетмәҫ he wouldnt hear
-беҙ ишетмәҫ we wouldnt hear
-һеҙ ишетмәҫ you wouldnt hear
-улар ишетмәҫ they wouldnt hear
+беҙ ишетмәҫбеҙ we wouldnt hear
+һеҙ ишетмәҫһегеҙ you wouldnt hear
+улар ишетмәҫтәр they wouldnt hear
 
 мин ишетҡәм килә i want to hear
 һиң ишетҡә килә you want to hear

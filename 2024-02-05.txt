@@ -1,0 +1,83 @@
+мин тынлайым i listen
+һиң тынлайһың you listen
+ул тынлай he listen
+беҙ тынлайбыҙ we listen
+һеҙ тынлайһығыҙ you listen
+улар тынлайҙар they listen
+
+мин тынламайым i dont listen
+һиң тынламайһың you dont listen
+ул тынламай he doesnt listen
+беҙ тынламайбыҙ we dont listen
+һеҙ тынламайһығыҙ you dont listen
+улар тынламайҙар they dont listen
+
+мин тынланым i have listen
+һиң тынланың you have listen
+ул тынланы he has listen
+беҙ тынланыҡ we have listen
+һеҙ тынланығыҙ you have listen
+улар тынланылар they have listen
+
+мин тынламаным i havent listen
+һиң тынламаның you havent listen
+ул тынламаны he hasnt listen
+беҙ тынламаныҡ we havent listen
+һеҙ тынламанығыҙ you havent listen
+улар тынламанылар they havent listen
+
+мин тынлағанмын
+һиң тынлағанһың
+ул тынлаған
+беҙ тынлағанбыҙ
+һеҙ тынлағанһығыҙ
+улар тынлағандар
+
+мин тынламағанмын
+һиң тынламағанһың
+ул тынламаған
+беҙ тынламағанбыҙ
+һеҙ тынламағанһығыҙ
+улар тынламағандар
+
+мин тынлайасаҡмын i will listen
+һиң тынлайасаҡһың you will listen
+ул тынлайасаҡ he will listen
+беҙ тынлайасаҡбыҙ we will listen
+һеҙ тынлайасаҡһығыҙ you will listen
+улар тынлайасаҡтар they will listen
+
+мин тынламаясаҡмын i will not listen
+һиң тынламаясаҡһың you will not listen
+ул тынламаясаҡ he will not listen
+беҙ тынламаясаҡбыҙ we will not listen
+һеҙ тынламаясаҡһығыҙ you will not listen
+улар тынламаясаҡтар they will not listen
+
+мин тынлаһам if i will listen / if i listen
+һиң тынлаһаң if you will listen / if you listen
+ул тынлаһа if he will listen / if he listen
+беҙ тынлаһак if we will listen / if we listen
+һеҙ тынлаһағыҙ if you will listen / if you listen
+улар тынлаһалар if they will listen / if they listen
+
+мин тынламаҫмын i would listen
+һиң тынламаҫһың you would listen
+ул тынламаҫ he would listen
+беҙ тынламаҫбыҙ we would listen
+һеҙ тынламаҫһығыҙ you would listen
+улар тынламаҫтар they would listen
+
+мин тынлармын i wouldnt listen
+һиң тынларһың you wouldnt listen
+ул тынлар he wouldnt listen
+беҙ тынларбыҙ we wouldnt listen
+һеҙ тынларһығыҙ you wouldnt listen
+улар тынларҙар they wouldnt listen
+
+мин тынлағым килә i want to listen
+һиң тынлағың килә you want to listen
+ул тынлағыһы килә he want to listen
+беҙ тынлағыҡ килә we want to listen
+һеҙ тынлағығыҙ килә you want to listen
+улар тынлағылар килә they want to listen
