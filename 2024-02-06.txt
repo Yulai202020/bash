@@ -1,0 +1,83 @@
+мин уҡыйым i read
+һиң уҡыйһың you read
+ул уҡый he read
+беҙ уҡыйбыҙ we read
+һеҙ уҡыйһығыҙ you read
+улар уҡыйҙар they read
+
+мин уҡымайым i dont read
+һиң уҡымайһың you dont read
+ул уҡымай he doesnt read
+беҙ уҡымайбыҙ we dont read
+һеҙ уҡымайһығыһ you dont read
+улар уҡымайҙар they dont read
+
+мин уҡыным i have read
+һиң уҡының you have read
+ул уҡыны he has read
+беҙ уҡыныҡ we have read
+һеҙ уҡынығыҙ you have read
+улар уҡынылар they have read
+
+мин уҡыманым i havent read
+һиң уҡыманың you havent read
+ул уҡыманы he hasnt read
+беҙ уҡыманыҡ we havent read
+һеҙ уҡыманығыҙ you havent read
+улар уҡыманылары they havent read
+
+мин уҡығанмын
+һиң уҡығанһың
+ул уҡыған
+беҙ уҡығанбыҙ
+һеҙ уҡығанһығыҙ
+улар уҡығандар
+
+мин уҡымағанмын
+һиң уҡымағанһың
+ул уҡымаған
+беҙ уҡымағанбыҙ
+һеҙ уҡымағанһығыҙ
+улар уҡымағандар
+
+мин уҡыйасаҡмын i will read
+һиң уҡыйасаҡһың you will read
+ул уҡыйасаҡ he will read
+беҙ уҡыйасаҡбыҙ we will read
+һеҙ уҡыйасаҡһығыҙ you will read
+улар уҡыйасаҡтар they will read
+
+мин уҡымаясаҡмын i will not read
+һиң уҡымаясаҡһың you will not read
+ул уҡымаясаҡ he will not read
+беҙ уҡымаясаҡбыҙ we will not read
+һеҙ уҡымаясаҡһығыҙ you will not read
+улар уҡымаясаҡтар they will not read
+
+мин уҡыһам if i will read / if i read
+һиң уҡыһаң if you will read / if you read
+ул уҡыһа if he will read / if he read
+беҙ уҡыһаҡ if we will read / if we read
+һеҙ уҡыһағыҙ if you will read / if you read
+улар уҡыһалар if they will read / if they read
+
+мин уҡырмын i would read
+һиң уҡырһың you would read
+ул уҡыр he would read
+беҙ уҡырбыҙ we would read
+һеҙ уҡырһығыҙ you would read
+улар уҡырҙар they would read
+
+мин уҡымаҫмын i wouldnt read
+һиң уҡымаҫһың you wouldnt read
+ул уҡымаҫ he wouldnt read
+беҙ уҡымаҫбыҙ we wouldnt read
+һеҙ уҡымаҫһығыҙ you wouldnt read
+улар уҡымаҫтар they wouldnt read
+
+мин уҡығым килә i want to read
+һиң уҡығың килә you want to read
+ул уҡығыһы килә he want to read
+беҙ уҡығыҡ килә we want to read
+һеҙ уҡығығыҙ килә you want to read
+улар уҡығылары килә they want to read
