@@ -1,0 +1,83 @@
+мин йүгерәйем i run
+һиң йүгерәһең you run
+ул йүгерәй he run
+беҙ йүгерәбеҙ we run
+һеҙ йүгерәһегеҙ you run
+улар йүгерәләр they run
+
+мин йүгермәйем i dont run
+һиң йүгермәйһең you dont run
+ул йүгермәй he doesnt run
+беҙ йүгермәйбеҙ we dont run
+һеҙ йүгермәйһегеҙ you dont run
+улар йүгермәйҙәр they dont run
+
+мин йүгерҙем i have run
+һиң йүгерҙең you have run
+ул йүгерҙе he has run
+беҙ йүгерҙек we have run
+һеҙ йүгерҙегеҙ you have run
+улар йүгерҙеләр they have run
+
+мин йүгермәнем i havent run
+һиң йүгермәнең you havent run
+ул йүгермәне he hasnt run
+беҙ йүгермәнек we havent run
+һеҙ йүгермәнегеҙ you havent run
+улар йүгермәнеләр they havent run
+
+мин йүгергәнмен
+һиң йүгергәнһең
+ул йүгергән
+беҙ йүгергәнбеҙ
+һеҙ йүгергәнһегеҙ
+улар йүгергәндәр
+
+мин йүгермәгәнмен
+һиң йүгермәгәнһең
+ул йүгермәгән
+беҙ йүгермәгәнбеҙ
+һеҙ йүгермәгәнһегеҙ
+улар йүгермәгәндәр
+
+мин йүгерәсәкмен i will run
+һиң йүгерәсәкһең you will run
+ул йүгерәсәк he will run
+беҙ йүгерәсәкбеҙ we will run
+һеҙ йүгерәсәкһегеҙ you will run
+улар йүгерәсәктәр they will run
+
+мин йүгермәйәсәкмен i will not run
+һиң йүгермәйәсәкһең you will not run
+ул йүгермәйәсәк he will not run
+беҙ йүгермәйәсәкбеҙ we will not run
+һеҙ йүгермәйәсәкһегеҙ you will not run
+улар йүгермәйәсәктәр they will not run
+
+мин йүгерһәм if i will run / if i run
+һиң йүгерһәң if you will run / if you run
+ул йүгерһә if he will run / if he run
+беҙ йүгерһәк if we will run / if we run
+һеҙ йүгерһәгеҙ if you will run / if you run
+улар йүгерһәләр if they will run / if they run
+
+мин йүгерермен i would run
+һиң йүгерерһең you would run
+ул йүгерер he would run
+беҙ йүгерербеҙ we would run
+һеҙ йүгерерһегеҙ you would run
+улар йүгерерҙәр they would run
+
+мин йүгермәҫмен i wouldnt run
+һиң йүгермәҫһең you wouldnt run
+ул йүгермәҫ he wouldnt run
+беҙ йүгермәҫбеҙ we wouldnt run
+һеҙ йүгермәҫһегеҙ you wouldnt run
+улар йүгермәҫтәр they wouldnt run
+
+мин йүгергем килә i want to run
+һиң йүгергең килә you want to run
+ул йүгергеһе килә he want to run
+беҙ йүгергек килә we want to run
+һеҙ йүгергегеҙ килә you want to run
+улар йүгергеләр килә they want to run
