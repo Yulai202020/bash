@@ -1,0 +1,76 @@
+мин   яратылам I am loved
+hиң   яратылаһың You are loved
+ул    яратыла He is loved
+беҙ   яратылабыҙ We are loved
+һегеҙ яратылаһығыҙ You are loved
+улар  яратылалар They are loved
+
+мин   яратылмайым I amn't loved
+hиң   яратылмайһың You aren't loved
+ул    яратылмай He isn't loved
+беҙ   яратылмайбыҙ We aren't loved
+һегеҙ яратылмайһығыҙ You aren't loved
+улар  яратылмайҙар They aren't loved
+
+мин   яратылдым I have been loved
+hиң   яратылдың You have been loved
+ул    яратылды He has been loved
+беҙ   яратылдыҡ We have been loved
+һегеҙ яратылдығыҙ You have been loved
+улар  яратылдылар They have been loved
+
+мин   яратылманым I haven't been loved
+hиң   яратылманың You haven't been loved
+ул    яратылманы He hasn't been loved
+беҙ   яратылманыҡ We haven't been loved
+һегеҙ яратылманығыҙ You haven't been loved
+улар  яратылманылар They haven't been loved
+
+мин   яратылҡанмын I have been loved
+hиң   яратылҡанһың You have been loved
+ул    яратылҡан He have been loved
+беҙ   яратылҡанбыҙ We have been loved
+һегеҙ яратылҡанһығыҙ You have been loved
+улар  яратылҡандар They have been loved
+
+мин   яратылмағанмын I haven't been loved
+hиң   яратылмағанһың You haven't been loved
+ул    яратылмаған He haven't been loved
+беҙ   яратылмағанбыҙ We haven't been loved
+һегеҙ яратылмағанһығыҙ You haven't been loved
+улар  яратылмағандар They haven't been loved
+
+мин   яратыласаҡмын I will be loved
+hиң   яратыласаҡһың You will be loved
+ул    яратыласаҡ He will be loved
+беҙ   яратыласаҡбыҙ We will be loved
+һегеҙ яратыласаҡһығыҙ You will be loved
+улар  яратыласаҡтар They will be loved
+
+мин   яратылмайасаҡмын I won't be loved
+hиң   яратылмайасаҡһың You I won't be loved
+ул    яратылмайасаҡ He I won't be loved
+беҙ   яратылмайасаҡбыҙ We I won't be loved
+һегеҙ яратылмайасаҡһығыҙ You I won't be loved
+улар  яратылмайасаҡтар They I won't be loved
+
+мин   яратылһам If I will be loved
+hиң   яратылһаң If You will be loved
+ул    яратылһа If He will be loved
+беҙ   яратылһаҡ If We will be loved
+һегеҙ яратылһағыҙ If You will be loved
+улар  яратылһалар If They will be loved
+
+мин   яратылырмын I would be loved
+hиң   яратылырһың You would be loved
+ул    яратылыр He would be loved
+беҙ   яратылырбыҙ We would be loved
+һегеҙ яратылырһығыҙ You would be loved
+улар  яратылырҙар They would be loved
+
+мин   яратылмаҫмын I wouldn't be loved
+hиң   яратылмаҫһың You wouldn't be loved
+ул    яратылмаҫ He wouldn't be loved
+беҙ   яратылмаҫбыҙ We wouldn't be loved
+һегеҙ яратылмаҫһығыҙ You wouldn't be loved
+улар  яратылмаҫтар They wouldn't be loved
