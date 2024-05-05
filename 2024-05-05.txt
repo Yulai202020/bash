@@ -1,0 +1,83 @@
+мин төҙөлөмөн i am built
+һиң төҙөлөһөң you are built
+ул төҙөлө he is built
+беҙ төҙөлөбөҙ we are built
+һеҙ төҙөлөһөгөҙ you are built
+улар төҙөлөләр they are built
+
+мин төҙөлмәйем i amn't built
+һиң төҙөлмәйҺең you aren't built
+ул төҙөлмәй he isn't built
+беҙ төҙөлмәйбеҙ we aren't built
+һеҙ төҙөлмәйҺегеҙ you aren't built
+улар төҙөлмәйҙәр they aren't built
+
+мин төҙөлдөм i have been built
+һиң төҙөлдөң you have been built
+ул төҙөлдө he has been built
+беҙ төҙөлдөк we have been built
+һеҙ төҙөлдөгөҙ you have been built
+улар төҙөлдөләр they have been built
+
+мин төҙөлмәнем i havent been built
+һиң төҙөлмәнең you havent been built
+ул төҙөлмәне he hasnt been built
+беҙ төҙөлмәнек we havent been built
+һеҙ төҙөлмәнегеҙ you havent been built
+улар төҙөлмәнеләр they havent been built
+
+мин төҙөлгәнмен
+һиң төҙөлгәнҺең
+ул төҙөлгән
+беҙ төҙөлгәнбеҙ
+һеҙ төҙөлгәнһегеҙ
+улар төҙөлгәндәр
+
+мин төҙөлмәгәнмен
+һиң төҙөлмәгәнҺең
+ул төҙөлмәгән
+беҙ төҙөлмәгәнбеҙ
+һеҙ төҙөлмәгәнһегеҙ
+улар төҙөлмәгәндәр
+
+мин төҙөләсәкмен i will be built
+һиң төҙөләсәкҺең you will be built
+ул төҙөләсәк he will be built
+беҙ төҙөләсәкбеҙ we will be built
+һеҙ төҙөләсәкһегеҙ you will be built
+улар төҙөләсәктәр they will be built
+
+мин төҙөлмәйәсәкмен i will not be built
+һиң төҙөлмәйәсәкҺең you will not be built
+ул төҙөлмәйәсәк he will not be built
+беҙ төҙөлмәйәсәкбеҙ we will not be built
+һеҙ төҙөлмәйәсәкһегеҙ you will not be built
+улар төҙөлмәйәсәктәр they will not be built
+
+мин төҙөлҺәм if i will be built / if i be built
+һиң төҙөлҺәң if you will be built / if you be built
+ул төҙөлҺә if he will be built / if he be built
+беҙ төҙөлҺәк if we will be built / if we be built
+һеҙ төҙөлҺәгеҙ if you will be built / if you be built
+улар төҙөлҺәләр if they will be built / if they be built
+
+мин төҙөлөрмөн i would be built
+һиң төҙөлөрҺөң you would be built
+ул төҙөлөр he would be built
+беҙ төҙөлөрбөҙ we would be built
+һеҙ төҙөлөрһөгөҙ you would be built
+улар төҙөлөрҙәр they would be built
+
+мин төҙөлмәҫмен i wouldnt be built
+һиң төҙөлмәҫҺең you wouldnt be built
+ул төҙөлмәҫ he wouldnt be built
+беҙ төҙөлмәҫбеҙ we wouldnt be built
+һеҙ төҙөлмәҫһегеҙ you wouldnt be built
+улар төҙөлмәҫҙәр they wouldnt be built
+
+мин төҙөлгөм килә i want to be built
+һиң төҙөлгөң килә you want to be built
+ул төҙөлгөҺө килә he want to be built
+беҙ төҙөлгөк килә we want to be built
+һеҙ төҙөлгөгөҙ килә you want to be built
+улар төҙөлгөләр килә they want to be built
