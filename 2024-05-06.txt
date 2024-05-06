@@ -1,0 +1,83 @@
+мин һайланылам i am chosen
+һиң һайланылаһың you are chosen
+ул һайланыла he is chosen
+беҙ һайланылабыҙ we are chosen
+һеҙ һайланылаһығыҙ you are chosen
+улар һайланылалар they are chosen
+
+мин һайланылмайым i amn't chosen
+һиң һайланылмайһың you aren't chosen
+ул һайланылмай he isn't chosen
+беҙ һайланылмайбыҙ we aren't chosen
+һеҙ һайланылмайһығыҙ you aren't chosen
+улар һайланылмайҙар they aren't chosen
+
+мин һайланылдым i have been chosen
+һиң һайланылдың you have been chosen
+ул һайланылды he has been chosen
+беҙ һайланылдыҡ we have been chosen
+һеҙ һайланылдығыҙ you have been chosen
+улар һайланылдылар they have been chosen
+
+мин һайланылманым i havent been chosen
+һиң һайланылманың you havent been chosen
+ул һайланылманы he hasnt been chosen
+беҙ һайланылманыҡ we havent been chosen
+һеҙ һайланылманығыҙ you havent been chosen
+улар һайланылманылар they havent been chosen
+
+мин һайланылғанмын
+һиң һайланылғанһың
+ул һайланылған
+беҙ һайланылғанбыҙ
+һеҙ һайланылғанһығыҙ
+улар һайланылғандар
+
+мин һайланылмағанмын
+һиң һайланылмағанһың
+ул һайланылмаған
+беҙ һайланылмағанбыҙ
+һеҙ һайланылмағанһығыҙ
+улар һайланылмағандар
+
+мин һайланыласаҡмын i will be chosen
+һиң һайланыласаҡһың you will be chosen
+ул һайланыласаҡ he will be chosen
+беҙ һайланыласаҡбыҙ we will be chosen
+һеҙ һайланыласаҡһығыҙ you will be chosen
+улар һайланыласаҡтар they will be chosen
+
+мин һайланылмайасаҡмын i will not be chosen
+һиң һайланылмайасаҡһың you will not be chosen
+ул һайланылмайасаҡ he will not be chosen
+беҙ һайланылмайасаҡбыҙ we will not be chosen
+һеҙ һайланылмайасаҡһығыҙ you will not be chosen
+улар һайланылмайасаҡтар they will not be chosen
+
+мин һайланылһам if i will be chosen / if i be chosen
+һиң һайланылһаң if you will be chosen / if you be chosen
+ул һайланылһа if he will be chosen / if he be chosen
+беҙ һайланылһа if we will be chosen / if we be chosen
+һеҙ һайланылһағыҙ if you will be chosen / if you be chosen
+улар һайланылһалар if they will be chosen / if they be chosen
+
+мин һайланылырмын i would be chosen
+һиң һайланылырһың you would be chosen
+ул һайланылыр he would be chosen
+беҙ һайланылырбыҙ we would be chosen
+һеҙ һайланылырһығыҙ you would be chosen
+улар һайланылырҙар they would be chosen
+
+мин һайланылмаҫмын i wouldn't be chosen
+һиң һайланылмаҫһың you wouldn't chosen
+ул һайланылмаҫ he wouldn't chosen
+беҙ һайланылмаҫбыҙ we wouldn't chosen
+һеҙ һайланылмаҫһығыҙ you wouldn't chosen
+улар һайланылмаҫтар they wouldn't chosen
+
+мин һайланылғым килә i want to be chosen
+һиң һайланылғың килә you want to be chosen
+ул һайланылғыһы килә he want to be chosen
+беҙ һайланылғыҡ килә we want to be chosen
+һеҙ һайланылғығыҙ килә you want to be chosen
+улар һайланылғылары килә they want to be chosen

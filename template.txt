@@ -5,12 +5,12 @@
 һеҙ smth_bash you smth
 улар smth_bash they smth
 
-мин smth_bash i dont smth
-һиң smth_bash you dont smth
-ул smth_bash he doesnt smth
-беҙ smth_bash we dont smth
-һеҙ smth_bash you dont smth
-улар smth_bash they dont smth
+мин smth_bash i don't smth
+һиң smth_bash you don't smth
+ул smth_bash he doesn't smth
+беҙ smth_bash we don't smth
+һеҙ smth_bash you don't smth
+улар smth_bash they don't smth
 
 мин smth_bash i have smth
 һиң smth_bash you have smth
@@ -19,12 +19,12 @@
 һеҙ smth_bash you have smth
 улар smth_bash they have smth
 
-мин smth_bash i havent smth
-һиң smth_bash you havent smth
-ул smth_bash he hasnt smth
-беҙ smth_bash we havent smth
-һеҙ smth_bash you havent smth
-улар smth_bash they havent smth
+мин smth_bash i haven't smth
+һиң smth_bash you haven't smth
+ул smth_bash he hasn't smth
+беҙ smth_bash we haven't smth
+һеҙ smth_bash you haven't smth
+улар smth_bash they haven't smth
 
 мин smth_bash
 һиң smth_bash
@@ -68,12 +68,12 @@
 һеҙ smth_bash you would smth
 улар smth_bash they would smth
 
-мин smth_bash i wouldnt smth
-һиң smth_bash you wouldnt smth
-ул smth_bash he wouldnt smth
-беҙ smth_bash we wouldnt smth
-һеҙ smth_bash you wouldnt smth
-улар smth_bash they wouldnt smth
+мин smth_bash i wouldn't smth
+һиң smth_bash you wouldn't smth
+ул smth_bash he wouldn't smth
+беҙ smth_bash we wouldn't smth
+һеҙ smth_bash you wouldn't smth
+улар smth_bash they wouldn't smth
 
 мин smth_bash килә i want to smth
 һиң smth_bash килә you want to smth
