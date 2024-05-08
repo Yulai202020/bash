@@ -1,0 +1,83 @@
+мин уйлайым i think
+һиң уйлайыһың you think
+ул уйлайы he think
+беҙ уйлайыбыҙ we think
+һеҙ уйлайыһығыҙ you think
+улар уйлайылар they think
+
+мин уйламайым i don't think
+һиң уйламайһың you don't think
+ул уйламай he doesn't think
+беҙ уйламайбыҙ we don't think
+һеҙ уйламайһығыҙ you don't think
+улар уйламайҙар they don't think
+
+мин уйланым i have thought
+һиң уйланың you have thought
+ул уйланы he has thought
+беҙ уйланыҡ we have thought
+һеҙ уйланығыҙ you have thought
+улар уйланылар they have thought
+
+мин уйламаным i haven't thought
+һиң уйламаның you haven't thought
+ул уйламаны he hasn't thought
+беҙ уйламаныҡ we haven't thought
+һеҙ уйламанығыҙ you haven't thought
+улар уйламаныk they haven't thought
+
+мин уйлағанмын
+һиң уйлағанһың
+ул уйлаған
+беҙ уйлағанбыҙ
+һеҙ уйлағанһығыҙ
+улар уйлағандар
+
+мин уйламағанмын
+һиң уйламағанһың
+ул уйламаған
+беҙ уйламағанбыҙ
+һеҙ уйламағанһығыҙ
+улар уйламағандар
+
+мин уйлайасаҡмын i will think
+һиң уйлайасаҡһың you will think
+ул уйлайасаҡ he will think
+беҙ уйлайасаҡбыҙ we will think
+һеҙ уйлайасаҡһығыҙ you will think
+улар уйлайасаҡтар they will think
+
+мин уйламайасаҡмын i will not think
+һиң уйламайасаҡһың you will not think
+ул уйламайасаҡ he will not think
+беҙ уйламайасаҡбыҙ we will not think
+һеҙ уйламайасаҡһығыҙ you will not think
+улар уйламайасаҡтар they will not think
+
+мин уйлаһам if i will think / if i think
+һиң уйлаһаң if you will think / if you think
+ул уйлаһа if he will think / if he think
+беҙ уйлаһаҡ if we will think / if we think
+һеҙ уйлаһағыҙ if you will think / if you think
+улар уйлаһалар if they will think / if they think
+
+мин уйлармын i would think
+һиң уйларһың you would think
+ул уйлар he would think
+беҙ уйларбыҙ we would think
+һеҙ уйларһығыҙ you would think
+улар уйларҙар they would think
+
+мин уйламаҫмын i wouldn't think
+һиң уйламаҫһың you wouldn't think
+ул уйламаҫ he wouldn't think
+беҙ уйламаҫбыҙ we wouldn't think
+һеҙ уйламаҫһығыҙ you wouldn't think
+улар уйламаҫтар they wouldn't think
+
+мин уйлағым килә i want to think
+һиң уйлағың килә you want to think
+ул уйлағыһы килә he want to think
+беҙ уйлағыҡ килә we want to think
+һеҙ уйлағығыҙ килә you want to think
+улар уйлағылары килә they want to think
